@@ -120,7 +120,6 @@ List of recent advances for human avatars, including generation, reconstruction,
 
 ### Text-to-Avatar
 
-
 - [DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models](http://arxiv.org/abs/2304.00916) (arXiv 06/04/2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2304.00916)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yukangcao.github.io/DreamAvatar/)
@@ -132,8 +131,8 @@ List of recent advances for human avatars, including generation, reconstruction,
 - [Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model](https://arxiv.org/abs/2308.07749) (arXiv 15/08/2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.07749)
 
-- [DreamWaltz: Make a Scene with Complex 3D Animatable Avatars](https://arxiv.org/pdf/2305.12529) (arXiv) 
-  [![Star](https://img.shields.io/github/stars/IDEA-Research/DreamWaltz?style=social)](https://github.com/IDEA-Research/DreamWaltz) 
+- [DreamWaltz: Make a Scene with Complex 3D Animatable Avatars](https://arxiv.org/pdf/2305.12529) (arXiv)
+  [![Star](https://img.shields.io/github/stars/IDEA-Research/DreamWaltz?style=social)](https://github.com/IDEA-Research/DreamWaltz)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2305.12529)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://idea-research.github.io/DreamWaltz/)
 
@@ -156,7 +155,6 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![Star](https://img.shields.io/github/stars/HansenHuang0823/AvatarFusion?style=social)](https://github.com/HansenHuang0823/AvatarFusion)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2307.06526.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://hansenhuang0823.github.io/AvatarFusion/)
-
 
 ### Avatar Interaction
 
@@ -184,10 +182,13 @@ List of recent advances for human avatars, including generation, reconstruction,
 
 ### SMPL Estimation
 
+- [Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop](https://arxiv.org/abs/1909.12828) (ICCV 2019)  
+  [![Star](https://img.shields.io/github/stars/nkolot/SPIN?style=social)](https://github.com/nkolot/SPIN)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1909.12828)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://www.nikoskolot.com/projects/spin/)
 - [Global-to-Local Modeling for Video-based 3D Human Pose and Shape Estimation](https://arxiv.org/pdf/2303.14747.pdf) (CVPR 2023)  
   [![Star](https://img.shields.io/github/stars/sxl142/GLoT?style=social)](https://github.com/sxl142/GLoT)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2303.14747.pdf)
-  
 - [JOTR: 3D Joint Contrastive Learning with Transformers for Occluded Human Mesh Recovery](https://arxiv.org/abs/2307.16377) (ICCV 2023)  
   [![Star](https://img.shields.io/github/stars/xljh0520/jotr?style=social)](https://github.com/xljh0520/jotr)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.16377)
