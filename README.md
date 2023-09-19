@@ -24,6 +24,9 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2204.08839.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/nogu-atsu/ENARF-GAN)
 
+- [ZeroAvatar: Zero-shot 3D Avatar Generation from a Single Image.](https://arxiv.org/abs/2305.16411) (arXiv 25/5/2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.16411)
+
 - [GENERATIVE NEURAL ARTICULATED RADIANCE FIELDS](https://arxiv.org/pdf/2206.14314.pdf) (NIPS 2022)  
   [![Star](https://img.shields.io/github/stars/alexanderbergman7/GNARF?style=social)](https://github.com/alexanderbergman7/GNARF)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2206.14314.pdf)
@@ -43,6 +46,11 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![Star](https://img.shields.io/github/stars/zj-dong/AG3D?style=social)](https://github.com/zj-dong/AG3D)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2305.02312.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zj-dong.github.io/AG3D)
+
+- [Get3DHuman: Lifting StyleGAN-Human into a 3D Generative Model using Pixel-aligned Reconstruction Priors.](https://arxiv.org/abs/2302.01162) (ICCV 2023)  
+  [![Star](https://img.shields.io/github/stars/X-zhangyang/Get3DHuman?style=social)](https://github.com/X-zhangyang/Get3DHuman/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.01162)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://x-zhangyang.github.io/2023_Get3DHuman/)
 
 ### Per-subject Avatar Reconstruction
 
@@ -181,15 +189,20 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2205.08535)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://hongfz16.github.io/projects/AvatarCLIP.html)
 
-- [AvatarBooth: High-Quality and Customizable 3D Human Avatar Generation](https://arxiv.org/pdf/2306.09864) (arXiv)  
+- [AvatarBooth: High-Quality and Customizable 3D Human Avatar Generation](https://arxiv.org/abs/2306.09864) (arXiv 16/06/2023)  
   [![Star](https://img.shields.io/github/stars/zeng-yifei/AvatarBooth?style=social)](https://github.com/zeng-yifei/AvatarBooth)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2306.09864)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.09864)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zeng-yifei.github.io/avatarbooth_page/)
 
 - [AvatarFusion: Zero-shot Generation of Clothing-Decoupled 3D Avatars Using 2D Diffusion](https://arxiv.org/pdf/2307.06526.pdf) (ACMMM 2023)  
   [![Star](https://img.shields.io/github/stars/HansenHuang0823/AvatarFusion?style=social)](https://github.com/HansenHuang0823/AvatarFusion)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2307.06526.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://hansenhuang0823.github.io/AvatarFusion/)
+
+- [TADA! Text to Animatable Digital Avatars](https://arxiv.org/abs/2308.10899) (arXiv 2023)  
+  [![Star](https://img.shields.io/github/stars/TingtingLiao/TADA?style=social)](https://github.com/TingtingLiao/TADA)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.10899)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://tada.is.tue.mpg.de/)
 
 ### Avatar Interaction
 
@@ -211,6 +224,11 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![Website](https://img.shields.io/badge/Website-9cf)](https://chenxin.tech/mld/)
 
 - [TMR: Text-to-Motion Retrieval Using Contrastive 3D Human Motion Synthesis](https://arxiv.org/pdf/2305.00976.pdf) (ICCV 2023)  
+  [![Star](https://img.shields.io/github/stars/Mathux/TMR?style=social)](https://github.com/Mathux/TMR)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2305.00976.pdf)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://mathis.petrovich.fr/tmr/)
+
+- [Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation](https://arxiv.org/pdf/2305.00976.pdf) (ICCV 2023)  
   [![Star](https://img.shields.io/github/stars/Mathux/TMR?style=social)](https://github.com/Mathux/TMR)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2305.00976.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://mathis.petrovich.fr/tmr/)
