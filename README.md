@@ -39,10 +39,10 @@ List of recent advances for human avatars, including generation, reconstruction,
 
 
 ### Generalizable Avatar from Monocular/Single Image
-+ [GHuNeRF: Generalizable Human NeRF from a Monocular Video](https://arxiv.org/abs/2307.12291) (ICCV 2023)  
-  [![Star](https://img.shields.io/github/stars/pansanity666/TransHuman?style=social)](https://github.com/pansanity666/TransHuman/)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.12291)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://pansanity666.github.io/TransHuman/) 
++ [GHuNeRF: Generalizable Human NeRF from a Monocular Video](https://arxiv.org/pdf/2308.16576v2.pdf) (arXiv 03/09/2023)  
+  <!-- [![Star](https://img.shields.io/github/stars/pansanity666/TransHuman?style=social)](https://github.com/pansanity666/TransHuman/) -->
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2308.16576v2.pdf)
+  <!-- [![Website](https://img.shields.io/badge/Website-9cf)](https://pansanity666.github.io/TransHuman/)  -->
 
 
 
