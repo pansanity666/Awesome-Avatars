@@ -9,7 +9,7 @@ List of recent advances for human avatars, including generation, reconstruction,
 - [Avatar Generation](#avatar-generation)
 - [Avatar Reconstruction](#avatar-reconstruction)
 - [Generalizable Avatar Novel View Synthesis](#generalizable-avatar-novel-view-synthesis)
-- [Generalizable Avatar Mesh Reconstruction](#generalizable-avatar-mesh-reconsturction)
+- [Generalizable Avatar Mesh Reconstruction](#generalizable-avatar-mesh-reconstruction)
 - [Text-to-Avatar](#text-to-avatar)
 - [Avatar Interaction](#avatar-interaction)
 - [Motion Generation](#motion-generation)
