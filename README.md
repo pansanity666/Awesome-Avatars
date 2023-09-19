@@ -15,6 +15,7 @@ List of recent advances for human avatars, including generation, reconstruction,
     - [Avatar Interaction](#avatar-interaction)
     - [Motion Generation](#motion-generation)
     - [SMPL Estimation](#smpl-estimation)
+    - [Dataset](#dataset)
     - [Aknowledgement](#aknowledgement)
 
 ### Avatar Generation
@@ -146,7 +147,6 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![Star](https://img.shields.io/github/stars/SangHunHan92/2K2K?style=social)](https://github.com/SangHunHan92/2K2K)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2303.15108.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://sanghunhan92.github.io/conference/2K2K/)
-  
 - [D-IF: Uncertainty-aware Human Digitization via Implicit Distribution Field](https://arxiv.org/pdf/2308.08857.pdf) (ICCV2023)  
   [![Star](https://img.shields.io/github/stars/psyai-net/D-IF_release?style=social)](https://github.com/psyai-net/D-IF_release)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2308.08857.pdf)
@@ -240,6 +240,11 @@ List of recent advances for human avatars, including generation, reconstruction,
 - [JOTR: 3D Joint Contrastive Learning with Transformers for Occluded Human Mesh Recovery](https://arxiv.org/abs/2307.16377) (ICCV 2023)  
   [![Star](https://img.shields.io/github/stars/xljh0520/jotr?style=social)](https://github.com/xljh0520/jotr)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.16377)
+
+### Dataset
+
+- [CLOTH4D: A Dataset for Clothed Human Reconstruction](https://openaccess.thecvf.com/content/CVPR2023/papers/Zou_CLOTH4D_A_Dataset_for_Clothed_Human_Reconstruction_CVPR_2023_paper.pdf) (CVPR 2023)  
+  [![Star](https://img.shields.io/github/stars/AemikaChow/CLOTH4D?style=social)](https://github.com/AemikaChow/CLOTH4D)
 
 ### Aknowledgement
 
