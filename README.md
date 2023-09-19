@@ -166,8 +166,7 @@ List of recent advances for human avatars, including generation, reconstruction,
 - [Global-to-Local Modeling for Video-based 3D Human Pose and Shape Estimation](https://arxiv.org/pdf/2303.14747.pdf) (CVPR 2023)  
   [![Star](https://img.shields.io/github/stars/sxl142/GLoT?style=social)](https://github.com/sxl142/GLoT)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2303.14747.pdf)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/sxl142/GLoT)
-
+  
 - [JOTR: 3D Joint Contrastive Learning with Transformers for Occluded Human Mesh Recovery](https://arxiv.org/abs/2307.16377) (ICCV 2023)  
   [![Star](https://img.shields.io/github/stars/xljh0520/jotr?style=social)](https://github.com/xljh0520/jotr)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.16377)
