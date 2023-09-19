@@ -32,4 +32,6 @@ List of recent advances for human avatars, including generation, reconstruction,
 
 
 ### Aknowledgement
-We thank the template from [Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion). The main contributors of this project are from ReLER Lab, CCAI, Zhejiang University.
++ We thank the template from [Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion). 
+
++ The main contributors of this project are from ReLER Lab, CCAI, Zhejiang University.
