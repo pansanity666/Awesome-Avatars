@@ -1,4 +1,4 @@
-# Awesome-Avatars
+# Awesome-Avatars [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 List of recent advances for human avatars, including generation, reconstruction, and editing, etc.
 
 
@@ -12,7 +12,13 @@ List of recent advances for human avatars, including generation, reconstruction,
 
 ### Avatar Reconstruction
 
-+ [Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://arxiv.org/pdf/2012.15838.pdf) (Aug., 2023)  
-  [![Star](https://img.shields.io/github/stars/magic-research/magic-avatar.svg?style=social&label=Star)](https://github.com/magic-research/magic-avatar)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.14748)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://magic-avatar.github.io/) 
++ [Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://arxiv.org/pdf/2012.15838.pdf) (CVPR 2021)  
+  [![Star](https://img.shields.io/github/stars/zju3dv/neuralbody)](https://github.com/zju3dv/neuralbody)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2012.15838.pdf)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://zju3dv.github.io/neuralbody/) 
+
+
+
+
+### Aknowledgement
+We thank the template from [Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion).
