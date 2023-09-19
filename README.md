@@ -23,12 +23,17 @@ List of recent advances for human avatars, including generation, reconstruction,
 
 
 ### Generalizable Avatar from Multi-view
++ [TransHuman: A Transformer-based Human Representation for Generalizable Neural Human Rendering](https://arxiv.org/abs/2307.12291) (ICCV 2023)  
+  [![Star](https://img.shields.io/github/stars/pansanity666/TransHuman?style=social)](https://github.com/pansanity666/TransHuman/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.12291)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://pansanity666.github.io/TransHuman/) 
 
 
 ### Generalizable Avatar from Monocular/Single Image
 
 
 ### Text-to-Avatar
+
 
 
 ### Aknowledgement
