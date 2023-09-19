@@ -147,7 +147,7 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2205.08535)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://hongfz16.github.io/projects/AvatarCLIP.html)
 
-- [AvatarBooth: High-Quality and Customizable 3D Human Avatar Generation](https://arxiv.org/pdf/2306.09864) (SIGGRAPH 2022)  
+- [AvatarBooth: High-Quality and Customizable 3D Human Avatar Generation](https://arxiv.org/pdf/2306.09864) (arXiv)  
   [![Star](https://img.shields.io/github/stars/zeng-yifei/AvatarBooth?style=social)](https://github.com/zeng-yifei/AvatarBooth)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2306.09864)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zeng-yifei.github.io/avatarbooth_page/)
