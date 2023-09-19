@@ -4,11 +4,14 @@ List of recent advances for human avatars, including generation, reconstruction,
 
 ## Table of Contents <!-- omit in toc -->
 <!-- - [Open-source Toolboxes and Foundation Models](#open-source-toolboxes-and-foundation-models) -->
-- [Avatar Generation](#video-generation)
-- [Avatar Reconstruction](#video-editing)
-- [Generalizable from Multi-view](#human-or-subject-motion)
-- [Generalizable from Monocular/Single Image](#human-or-subject-motion)
-- [Text-to-Avatar](#human-or-subject-motion)
+- [Avatar Generation](#avatar-generation)
+- [Avatar Reconstruction](#avatar-reconstruction)
+- [Generalizable from Multi-view](#generalizable-from-multi-view)
+- [Generalizable from Monocular/Single Image](#generalizable-from-monocular/single-image)
+- [Text-to-Avatar](#text-to-avatar)
+
+### Avatar Generation
+
 
 ### Avatar Reconstruction
 
@@ -18,6 +21,14 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zju3dv.github.io/neuralbody/) 
 
 
+
+### Generalizable from Multi-view
+
+
+### Generalizable from Monocular/Single Image
+
+
+### Text-to-Avatar
 
 
 ### Aknowledgement
