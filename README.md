@@ -169,7 +169,7 @@ List of recent advances for human avatars, including generation, reconstruction,
 - [Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model](https://arxiv.org/abs/2308.07749) (arXiv 15/08/2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.07749)
 
-- [DreamWaltz: Make a Scene with Complex 3D Animatable Avatars](https://arxiv.org/pdf/2305.12529) (arXiv 12/07/2023)
+- [DreamWaltz: Make a Scene with Complex 3D Animatable Avatars](https://arxiv.org/pdf/2305.12529) (arXiv 12/07/2023)  
   [![Star](https://img.shields.io/github/stars/IDEA-Research/DreamWaltz?style=social)](https://github.com/IDEA-Research/DreamWaltz)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2305.12529)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://idea-research.github.io/DreamWaltz/)
