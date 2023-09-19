@@ -6,9 +6,10 @@ List of recent advances for human avatars, including generation, reconstruction,
 <!-- - [Open-source Toolboxes and Foundation Models](#open-source-toolboxes-and-foundation-models) -->
 - [Avatar Generation](#avatar-generation)
 - [Avatar Reconstruction](#avatar-reconstruction)
-- [Generalizable Avatar from Multi-view](#generalizable-avatar-from-multi-view)
-- [Generalizable Avatar from Monocular/Single Image](#generalizable-avatar-from-monocular/single-image)
+- [Generalizable Avatar Novel View Synthesis](#generalizable-avatar-novel-view-synthesis)
+- [Generalizable Avatar Mesh Reconstruction](#generalizable-avatar-mesh-reconsturction)
 - [Text-to-Avatar](#text-to-avatar)
+- [Avatar Interaction](#avatar-interaction)
 
 ### Avatar Generation
 
@@ -20,16 +21,6 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![Star](https://img.shields.io/github/stars/zju3dv/neuralbody?style=social)](https://github.com/zju3dv/neuralbody)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2012.15838.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zju3dv.github.io/neuralbody/) 
-
-+ [ICON : Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://arxiv.org/pdf/2112.09127.pdf) (CVPR 2022)  
-  [![Star](https://img.shields.io/github/stars/YuliangXiu/ICON?style=social)](https://github.com/YuliangXiu/ICON)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2112.09127.pdf)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://icon.is.tue.mpg.de/) 
-
-+ [ECON: Explicit Clothed humans Optimized via Normal integration](https://arxiv.org/pdf/2212.07422.pdf) (CVPR 2023 Highlight)  
-  [![Star](https://img.shields.io/github/stars/YuliangXiu/ECON?style=social)](https://github.com/YuliangXiu/ECON)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2212.07422.pdf)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://xiuyuliang.cn/econ/) 
 
 + [Animatable Neural Radiance Fields for Modeling Dynamic Human Bodies](https://arxiv.org/pdf/2212.07422.pdf) (ICCV 2021)  
   [![Star](https://img.shields.io/github/stars/zju3dv/animatable_nerf?style=social)](https://github.com/zju3dv/animatable_nerf)
@@ -48,7 +39,7 @@ List of recent advances for human avatars, including generation, reconstruction,
 
 
 
-### Generalizable Avatar from Multi-view
+### Generalizable Avatar Novel View Synthesis
 + [Neural Human Performer: Learning Generalizable Radiance Fields for Human Performance Rendering](https://arxiv.org/pdf/2109.07448.pdf) (NIPS 2021)  
   [![Star](https://img.shields.io/github/stars/YoungJoongUNC/Neural_Human_Performer?style=social)](https://github.com/YoungJoongUNC/Neural_Human_Performer)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2109.07448.pdf)
@@ -68,9 +59,6 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.12291)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://pansanity666.github.io/TransHuman/) 
 
-
-
-### Generalizable Avatar from Monocular/Single Image
 + [GHuNeRF: Generalizable Human NeRF from a Monocular Video](https://arxiv.org/pdf/2308.16576v2.pdf) (arXiv 03/09/2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2308.16576v2.pdf)
 
@@ -84,9 +72,25 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![Website](https://img.shields.io/badge/Website-9cf)](https://skhu101.github.io/SHERF/) 
 
 
+
+### Generalizable Avatar Mesh Reconstruction
+
+
++ [ICON : Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://arxiv.org/pdf/2112.09127.pdf) (CVPR 2022)  
+  [![Star](https://img.shields.io/github/stars/YuliangXiu/ICON?style=social)](https://github.com/YuliangXiu/ICON)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2112.09127.pdf)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://icon.is.tue.mpg.de/) 
+
++ [ECON: Explicit Clothed humans Optimized via Normal integration](https://arxiv.org/pdf/2212.07422.pdf) (CVPR 2023 Highlight)  
+  [![Star](https://img.shields.io/github/stars/YuliangXiu/ECON?style=social)](https://github.com/YuliangXiu/ECON)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2212.07422.pdf)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://xiuyuliang.cn/econ/) 
+
+
 ### Text-to-Avatar
 
 
+### Avatar Interaction
 
 ### Aknowledgement
 + We thank the template from [Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion). 
