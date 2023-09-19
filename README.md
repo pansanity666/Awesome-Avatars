@@ -129,29 +129,29 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![Website](https://img.shields.io/badge/Website-9cf)](https://xiuyuliang.cn/econ/)
 
 
-- [Structured 3D Features for Reconstructing Relightable and Animatable Avatars](https://arxiv.org/abs/2212.06820) (CVPR2023)
+- [Structured 3D Features for Reconstructing Relightable and Animatable Avatars](https://arxiv.org/abs/2212.06820) (CVPR2023)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.06820)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://enriccorona.github.io/s3f/)
 
 
-- [SeSDF: Self-evolved Signed Distance Field for Implicit 3D Clothed Human Reconstruction](https://yukangcao.github.io/SeSDF/index_files/SeSDF_05448.pdf) (CVPR2023)
+- [SeSDF: Self-evolved Signed Distance Field for Implicit 3D Clothed Human Reconstruction](https://yukangcao.github.io/SeSDF/index_files/SeSDF_05448.pdf) (CVPR2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2304.00359)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yukangcao.github.io/SeSDF/)
 
 
-- [DIFu: Depth-Guided Implicit Function for Clothed Human Reconstruction](https://openaccess.thecvf.com/content/CVPR2023/papers/Song_DIFu_Depth-Guided_Implicit_Function_for_Clothed_Human_Reconstruction_CVPR_2023_paper.pdf) (CVPR2023)
+- [DIFu: Depth-Guided Implicit Function for Clothed Human Reconstruction](https://openaccess.thecvf.com/content/CVPR2023/papers/Song_DIFu_Depth-Guided_Implicit_Function_for_Clothed_Human_Reconstruction_CVPR_2023_paper.pdf) (CVPR2023)  
   [![Website](https://img.shields.io/badge/Website-9cf)](https://eadcat.github.io/DIFu/)
 
-- [Complete 3D Human Reconstruction from a Single Incomplete Image](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Complete_3D_Human_Reconstruction_From_a_Single_Incomplete_Image_CVPR_2023_paper.pdf) (CVPR2023)
+- [Complete 3D Human Reconstruction from a Single Incomplete Image](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Complete_3D_Human_Reconstruction_From_a_Single_Incomplete_Image_CVPR_2023_paper.pdf) (CVPR2023)  
   [![Website](https://img.shields.io/badge/Website-9cf)](https://junyingw.github.io/paper/3d_inpainting/) 
 
 
-- [High-fidelity 3D Human Digitization from Single 2K Resolution Images](https://arxiv.org/pdf/2303.15108.pdf) (CVPR2023 Highlight)
+- [High-fidelity 3D Human Digitization from Single 2K Resolution Images](https://arxiv.org/pdf/2303.15108.pdf) (CVPR2023 Highlight)  
   [![Star](https://img.shields.io/github/stars/SangHunHan92/2K2K?style=social)](https://github.com/SangHunHan92/2K2K)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2303.15108.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://sanghunhan92.github.io/conference/2K2K/)
   
-- [D-IF: Uncertainty-aware Human Digitization via Implicit Distribution Field](https://arxiv.org/pdf/2308.08857.pdf) (ICCV2023)
+- [D-IF: Uncertainty-aware Human Digitization via Implicit Distribution Field](https://arxiv.org/pdf/2308.08857.pdf) (ICCV2023)  
   [![Star](https://img.shields.io/github/stars/psyai-net/D-IF_release?style=social)](https://github.com/psyai-net/D-IF_release)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2308.08857.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yxt7979.github.io/idf/)
