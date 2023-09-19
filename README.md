@@ -6,8 +6,8 @@ List of recent advances for human avatars, including generation, reconstruction,
 <!-- - [Open-source Toolboxes and Foundation Models](#open-source-toolboxes-and-foundation-models) -->
 - [Avatar Generation](#avatar-generation)
 - [Avatar Reconstruction](#avatar-reconstruction)
-- [Generalizable from Multi-view](#generalizable-from-multi-view)
-- [Generalizable from Monocular/Single Image](#generalizable-from-monocular/single-image)
+- [Generalizable Avatar from Multi-view](#generalizable-avatar-from-multi-view)
+- [Generalizable Avatar from Monocular/Single Image](#generalizable-avatar-from-monocular/single-image)
 - [Text-to-Avatar](#text-to-avatar)
 
 ### Avatar Generation
@@ -22,10 +22,10 @@ List of recent advances for human avatars, including generation, reconstruction,
 
 
 
-### Generalizable from Multi-view
+### Generalizable Avatar from Multi-view
 
 
-### Generalizable from Monocular/Single Image
+### Generalizable Avatar from Monocular/Single Image
 
 
 ### Text-to-Avatar
