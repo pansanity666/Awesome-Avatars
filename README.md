@@ -16,10 +16,20 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2204.08839.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/nogu-atsu/ENARF-GAN) 
 
++ [GENERATIVE NEURAL ARTICULATED RADIANCE FIELDS](https://arxiv.org/pdf/2206.14314.pdf) (NEURIPS 2022)  
+  [![Star](https://img.shields.io/github/stars/alexanderbergman7/GNARF?style=social)](https://github.com/alexanderbergman7/GNARF)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2206.14314.pdf)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/alexanderbergman7/GNARF)   
+
 + [EVA3D: Compositional 3D Human Generation from 2D Image Collections](https://arxiv.org/pdf/2210.04888.pdf) (ICLR 2023)  
   [![Star](https://img.shields.io/github/stars/hongfz16/EVA3D?style=social)](https://github.com/hongfz16/EVA3D)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2210.04888.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://hongfz16.github.io/projects/EVA3D) 
+
++ [AG3D: Learning to Generate 3D Avatars from 2D Image Collections](https://arxiv.org/pdf/2305.02312.pdf) (ICCV 2023)  
+  [![Star](https://img.shields.io/github/stars/zj-dong/AG3D?style=social)](https://github.com/zj-dong/AG3D)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2305.02312.pdf)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://zj-dong.github.io/AG3D)
 
 
 ### Avatar Reconstruction
