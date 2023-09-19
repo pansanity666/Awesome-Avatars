@@ -13,6 +13,8 @@ List of recent advances for human avatars, including generation, reconstruction,
 - [Text-to-Avatar](#text-to-avatar)
 - [Avatar Interaction](#avatar-interaction)
 - [Motion Generation](#motion-generation)
+- [SMPL Estimation](#smpl-estimation)
+
 
 ### Avatar Generation
 
@@ -129,6 +131,10 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yifeiyin04.github.io/Hi4D/)
 
 ### Motion Generation
+
+
+### SMPL Estimation
+
 
 ### Aknowledgement
 
