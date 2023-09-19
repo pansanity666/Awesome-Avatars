@@ -157,6 +157,11 @@ List of recent advances for human avatars, including generation, reconstruction,
 
 ### SMPL Estimation
 
+- [Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop](https://arxiv.org/abs/1909.12828) (ICCV 2019)  
+  [![Star](https://img.shields.io/github/stars/nkolot/SPIN?style=social)](https://github.com/nkolot/SPIN)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1909.12828)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://www.nikoskolot.com/projects/spin/)
+
 ### Aknowledgement
 
 - We thank the template from [Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion).
