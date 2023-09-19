@@ -52,6 +52,11 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.14401)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://jitengmu.github.io/ActorsNeRF/) 
 
++ [SHERF: Generalizable Human NeRF from a Single Image](https://arxiv.org/abs/2303.12791) (ICCV 2023)  
+  [![Star](https://img.shields.io/github/stars/skhu101/SHERF?style=social)](https://github.com/skhu101/SHERF)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.12791)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://skhu101.github.io/SHERF/) 
+
 
 ### Text-to-Avatar
 
