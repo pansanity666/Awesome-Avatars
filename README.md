@@ -11,6 +11,8 @@ List of recent advances for human avatars, including generation, reconstruction,
 - [Generalizable Avatar from Multi-view](#generalizable-avatar-from-multi-view)
 - [Generalizable Avatar from Monocular/Single Image](#generalizable-avatar-from-monocular/single-image)
 - [Text-to-Avatar](#text-to-avatar)
+- [Human Interaction](#human-interaction)
+- [Motion Generation](#motion-generation)
 
 ### Avatar Generation
 
@@ -61,7 +63,7 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2212.07422.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zju3dv.github.io/animatable_nerf/)
 
-- [InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds](https://arxiv.org/pdf/2012.15838.pdf) (arXiv)  
+- [InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds](https://arxiv.org/pdf/2012.15838.pdf) (arXiv 20/12/2022)  
   [![Star](https://img.shields.io/github/stars/tijiang13/InstantAvatar?style=social)](https://github.com/tijiang13/InstantAvatar)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2212.07422.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://tijiang13.github.io/InstantAvatar/)
@@ -70,6 +72,15 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![Star](https://img.shields.io/github/stars/apple/ml-neuman?style=social)](https://github.com/apple/ml-neuman)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2203.12575.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/apple/ml-neuman)
+
+- [TeCH: Text-guided Reconstruction of Lifelike Clothed Humans](http://arxiv.org/abs/2308.08545) (arXiv 19/08/2023)  
+  [![Star](https://img.shields.io/github/stars/huangyangyi/TeCH?style=social)](https://github.com/huangyangyi/TeCH)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2308.08545)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://huangyangyi.github.io/TeCH/)
+
+- [Relightable and Animatable Neural Avatar from Sparse-View Video](http://arxiv.org/abs/2308.07903) (arXiv 17/08/2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2308.07903)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://zju3dv.github.io/relightable_avatar/)
 
 ### Generalizable Avatar from Multi-view
 
@@ -111,6 +122,10 @@ List of recent advances for human avatars, including generation, reconstruction,
 - [DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models](http://arxiv.org/abs/2304.00916) (arXiv 06/04/2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2304.00916)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yukangcao.github.io/DreamAvatar/)
+
+- [AvatarVerse: High-quality & Stable 3D Avatar Creation from Text and Pose](http://arxiv.org/abs/2308.03610) (arXiv 07/08/2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2308.03610)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://avatarverse3d.github.io/)
 
 - [Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model](https://arxiv.org/abs/2308.07749) (arXiv 15/08/2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.07749)
