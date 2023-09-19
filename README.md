@@ -124,6 +124,23 @@ List of recent advances for human avatars, including generation, reconstruction,
 
 ### Motion Generation
 
+- [MotionGPT: Human Motion as a Foreign Language](https://arxiv.org/pdf/2306.14795.pdf) (arxiv)  
+  [![Star](https://img.shields.io/github/stars/OpenMotionLab/MotionGPT?style=social)](https://github.com/OpenMotionLab/MotionGPT)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2306.14795.pdf)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://motion-gpt.github.io)
+
+- [Executing your Commands via Motion Diffusion in Latent Space](https://arxiv.org/pdf/2212.04048.pdf) (CVPR 2023)  
+  [![Star](https://img.shields.io/github/stars/ChenFengYe/motion-latent-diffusion?style=social)](https://github.com/ChenFengYe/motion-latent-diffusion)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2212.04048.pdf)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://chenxin.tech/mld/)
+
+- [TMR: Text-to-Motion Retrieval Using Contrastive 3D Human Motion Synthesis](https://arxiv.org/pdf/2305.00976.pdf) (ICCV 2023)  
+  [![Star](https://img.shields.io/github/stars/Mathux/TMR?style=social)](https://github.com/Mathux/TMR)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2305.00976.pdf)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://mathis.petrovich.fr/tmr/)
+
+
+
 ### Aknowledgement
 
 - We thank the template from [Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion).
