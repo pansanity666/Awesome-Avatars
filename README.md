@@ -6,8 +6,8 @@ List of recent advances for human avatars, including generation, reconstruction,
 <!-- - [Open-source Toolboxes and Foundation Models](#open-source-toolboxes-and-foundation-models) -->
 - [Avatar Generation](#avatar-generation)
 - [Avatar Reconstruction](#avatar-reconstruction)
-- [Generalizable from Multi-view](#generalizable-from-multi-view)
-- [Generalizable from Monocular/Single Image](#generalizable-from-monocular/single-image)
+- [Generalizable Avatar from Multi-view](#generalizable-avatar-from-multi-view)
+- [Generalizable Avatar from Monocular/Single Image](#generalizable-avatar-from-monocular/single-image)
 - [Text-to-Avatar](#text-to-avatar)
 
 ### Avatar Generation
@@ -48,10 +48,26 @@ List of recent advances for human avatars, including generation, reconstruction,
 
 
 
-### Generalizable from Multi-view
+### Generalizable Avatar from Multi-view
++ [Neural Human Performer: Learning Generalizable Radiance Fields for Human Performance Rendering](https://arxiv.org/pdf/2109.07448.pdf) (NIPS 2021)  
+  [![Star](https://img.shields.io/github/stars/YoungJoongUNC/Neural_Human_Performer?style=social)](https://github.com/YoungJoongUNC/Neural_Human_Performer)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2109.07448.pdf)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://youngjoongunc.github.io/nhp/) 
+
++ [GP-NeRF: Geometry-Guided Progressive NeRF for Generalizable and Efficient Neural Human Rendering](https://arxiv.org/pdf/2112.04312.pdf) (ECCV 2022)  
+  [![Star](https://img.shields.io/github/stars/sail-sg/GP-Nerf?style=social)](https://github.com/sail-sg/GP-Nerf)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2112.04312.pdf)
+
++ [TransHuman: A Transformer-based Human Representation for Generalizable Neural Human Rendering](https://arxiv.org/abs/2307.12291) (ICCV 2023)  
+  [![Star](https://img.shields.io/github/stars/pansanity666/TransHuman?style=social)](https://github.com/pansanity666/TransHuman/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.12291)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://pansanity666.github.io/TransHuman/) 
 
 
-### Generalizable from Monocular/Single Image
+### Generalizable Avatar from Monocular/Single Image
++ [GHuNeRF: Generalizable Human NeRF from a Monocular Video](https://arxiv.org/pdf/2308.16576v2.pdf) (arXiv 03/09/2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2308.16576v2.pdf)
+
 
 
 ### Text-to-Avatar
