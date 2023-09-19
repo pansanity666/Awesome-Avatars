@@ -7,10 +7,14 @@ List of recent advances for human avatars, including generation, reconstruction,
 <!-- - [Open-source Toolboxes and Foundation Models](#open-source-toolboxes-and-foundation-models) -->
 
 - [Avatar Generation](#avatar-generation)
-- [Avatar Reconstruction](#avatar-reconstruction)
-- [Generalizable Avatar from Multi-view](#generalizable-avatar-from-multi-view)
-- [Generalizable Avatar from Monocular/Single Image](#generalizable-avatar-from-monocular/single-image)
+- [Per-subject Avatar Reconstruction](#per-subject-avatar-reconstruction)
+- [Generalizable Avatar Novel View Synthesis](#generalizable-avatar-novel-view-synthesis)
+- [Generalizable Avatar Mesh Reconstruction](#generalizable-avatar-mesh-reconstruction)
 - [Text-to-Avatar](#text-to-avatar)
+- [Avatar Interaction](#avatar-interaction)
+- [Motion Generation](#motion-generation)
+- [SMPL Estimation](#smpl-estimation)
+
 - [Human Interaction](#human-interaction)
 - [Motion Generation](#motion-generation)
 
@@ -21,7 +25,7 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2204.08839.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/nogu-atsu/ENARF-GAN)
 
-- [GENERATIVE NEURAL ARTICULATED RADIANCE FIELDS](https://arxiv.org/pdf/2206.14314.pdf) (NEURIPS 2022)  
+- [GENERATIVE NEURAL ARTICULATED RADIANCE FIELDS](https://arxiv.org/pdf/2206.14314.pdf) (NIPS 2022)  
   [![Star](https://img.shields.io/github/stars/alexanderbergman7/GNARF?style=social)](https://github.com/alexanderbergman7/GNARF)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2206.14314.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/alexanderbergman7/GNARF)
@@ -41,24 +45,14 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2305.02312.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zj-dong.github.io/AG3D)
 
-### Avatar Reconstruction
+### Per-subject Avatar Reconstruction
 
 - [Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://arxiv.org/pdf/2012.15838.pdf) (CVPR 2021)  
   [![Star](https://img.shields.io/github/stars/zju3dv/neuralbody?style=social)](https://github.com/zju3dv/neuralbody)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2012.15838.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zju3dv.github.io/neuralbody/)
 
-- [ICON : Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://arxiv.org/pdf/2112.09127.pdf) (CVPR 2022)  
-  [![Star](https://img.shields.io/github/stars/YuliangXiu/ICON?style=social)](https://github.com/YuliangXiu/ICON)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2112.09127.pdf)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://icon.is.tue.mpg.de/)
-
-- [ECON: Explicit Clothed humans Optimized via Normal integration](https://arxiv.org/pdf/2212.07422.pdf) (CVPR 2023 Highlight)  
-  [![Star](https://img.shields.io/github/stars/YuliangXiu/ECON?style=social)](https://github.com/YuliangXiu/ECON)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2212.07422.pdf)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://xiuyuliang.cn/econ/)
-
-- [Animatable Neural Radiance Fields for Modeling Dynamic Human Bodies](https://arxiv.org/pdf/2212.07422.pdf) (ICCV 2021)  
++ [Animatable Neural Radiance Fields for Modeling Dynamic Human Bodies](https://arxiv.org/pdf/2212.07422.pdf) (ICCV 2021)  
   [![Star](https://img.shields.io/github/stars/zju3dv/animatable_nerf?style=social)](https://github.com/zju3dv/animatable_nerf)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2212.07422.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zju3dv.github.io/animatable_nerf/)
@@ -82,9 +76,10 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2308.07903)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zju3dv.github.io/relightable_avatar/)
 
-### Generalizable Avatar from Multi-view
 
-- [Neural Human Performer: Learning Generalizable Radiance Fields for Human Performance Rendering](https://arxiv.org/pdf/2109.07448.pdf) (NIPS 2021)  
+
+### Generalizable Avatar Novel View Synthesis
++ [Neural Human Performer: Learning Generalizable Radiance Fields for Human Performance Rendering](https://arxiv.org/pdf/2109.07448.pdf) (NIPS 2021)  
   [![Star](https://img.shields.io/github/stars/YoungJoongUNC/Neural_Human_Performer?style=social)](https://github.com/YoungJoongUNC/Neural_Human_Performer)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2109.07448.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://youngjoongunc.github.io/nhp/)
@@ -101,11 +96,9 @@ List of recent advances for human avatars, including generation, reconstruction,
 - [TransHuman: A Transformer-based Human Representation for Generalizable Neural Human Rendering](https://arxiv.org/abs/2307.12291) (ICCV 2023)  
   [![Star](https://img.shields.io/github/stars/pansanity666/TransHuman?style=social)](https://github.com/pansanity666/TransHuman/)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.12291)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://pansanity666.github.io/TransHuman/)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://pansanity666.github.io/TransHuman/) 
 
-### Generalizable Avatar from Monocular/Single Image
-
-- [GHuNeRF: Generalizable Human NeRF from a Monocular Video](https://arxiv.org/pdf/2308.16576v2.pdf) (arXiv 03/09/2023)  
++ [GHuNeRF: Generalizable Human NeRF from a Monocular Video](https://arxiv.org/pdf/2308.16576v2.pdf) (arXiv 03/09/2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2308.16576v2.pdf)
 
 - [ActorsNeRF: Animatable Few-shot Human Rendering with Generalizable NeRFs](https://arxiv.org/abs/2304.14401) (ICCV 2023)  
@@ -116,6 +109,21 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![Star](https://img.shields.io/github/stars/skhu101/SHERF?style=social)](https://github.com/skhu101/SHERF)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.12791)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://skhu101.github.io/SHERF/)
+
+
+### Generalizable Avatar Mesh Reconstruction
+
+
++ [ICON : Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://arxiv.org/pdf/2112.09127.pdf) (CVPR 2022)  
+  [![Star](https://img.shields.io/github/stars/YuliangXiu/ICON?style=social)](https://github.com/YuliangXiu/ICON)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2112.09127.pdf)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://icon.is.tue.mpg.de/) 
+
++ [ECON: Explicit Clothed humans Optimized via Normal integration](https://arxiv.org/pdf/2212.07422.pdf) (CVPR 2023 Highlight)  
+  [![Star](https://img.shields.io/github/stars/YuliangXiu/ECON?style=social)](https://github.com/YuliangXiu/ECON)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2212.07422.pdf)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://xiuyuliang.cn/econ/) 
+
 
 ### Text-to-Avatar
 
@@ -130,7 +138,7 @@ List of recent advances for human avatars, including generation, reconstruction,
 - [Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model](https://arxiv.org/abs/2308.07749) (arXiv 15/08/2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.07749)
 
-### Human Interaction
+### Avatar Interaction
 
 - [Hi4D: 4D Instance Segmentation of Close Human Interaction](https://arxiv.org/abs/2303.15380v1) (CVPR 2023)  
   [![Star](https://img.shields.io/github/stars/yifeiyin04/Hi4D?style=social)](https://github.com/yifeiyin04/Hi4D)
@@ -138,6 +146,10 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yifeiyin04.github.io/Hi4D/)
 
 ### Motion Generation
+
+
+### SMPL Estimation
+
 
 ### Aknowledgement
 
