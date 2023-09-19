@@ -158,15 +158,20 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2205.08535)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://hongfz16.github.io/projects/AvatarCLIP.html)
 
-- [AvatarBooth: High-Quality and Customizable 3D Human Avatar Generation](https://arxiv.org/pdf/2306.09864) (arXiv)  
+- [AvatarBooth: High-Quality and Customizable 3D Human Avatar Generation](https://arxiv.org/abs/2306.09864) (arXiv 16/06/2023)  
   [![Star](https://img.shields.io/github/stars/zeng-yifei/AvatarBooth?style=social)](https://github.com/zeng-yifei/AvatarBooth)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2306.09864)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.09864)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zeng-yifei.github.io/avatarbooth_page/)
 
 - [AvatarFusion: Zero-shot Generation of Clothing-Decoupled 3D Avatars Using 2D Diffusion](https://arxiv.org/pdf/2307.06526.pdf) (ACMMM 2023)  
   [![Star](https://img.shields.io/github/stars/HansenHuang0823/AvatarFusion?style=social)](https://github.com/HansenHuang0823/AvatarFusion)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2307.06526.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://hansenhuang0823.github.io/AvatarFusion/)
+
+- [TADA! Text to Animatable Digital Avatars](https://arxiv.org/abs/2308.10899) (arXiv 2023)  
+  [![Star](https://img.shields.io/github/stars/TingtingLiao/TADA?style=social)](https://github.com/TingtingLiao/TADA)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.10899)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://tada.is.tue.mpg.de/)
 
 ### Avatar Interaction
 
