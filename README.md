@@ -124,6 +124,10 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2304.00916)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yukangcao.github.io/DreamAvatar/)
 
+- [DreamHuman: Animatable 3D Avatars from Text](https://arxiv.org/abs/2306.09329) (arXiv 15/06/2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.09329)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://dream-human.github.io/)
+
 - [AvatarVerse: High-quality & Stable 3D Avatar Creation from Text and Pose](http://arxiv.org/abs/2308.03610) (arXiv 07/08/2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2308.03610)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://avatarverse3d.github.io/)
@@ -131,12 +135,12 @@ List of recent advances for human avatars, including generation, reconstruction,
 - [Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model](https://arxiv.org/abs/2308.07749) (arXiv 15/08/2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.07749)
 
-- [DreamWaltz: Make a Scene with Complex 3D Animatable Avatars](https://arxiv.org/pdf/2305.12529) (arXiv)
+- [DreamWaltz: Make a Scene with Complex 3D Animatable Avatars](https://arxiv.org/pdf/2305.12529) (arXiv 12/07/2023)
   [![Star](https://img.shields.io/github/stars/IDEA-Research/DreamWaltz?style=social)](https://github.com/IDEA-Research/DreamWaltz)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2305.12529)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://idea-research.github.io/DreamWaltz/)
 
-- [AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control](https://arxiv.org/pdf/2303.17606) (arXiv)  
+- [AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control](https://arxiv.org/pdf/2303.17606) (ICCV 2023)  
   [![Star](https://img.shields.io/github/stars/songrise/AvatarCraft?style=social)](https://github.com/songrise/AvatarCraft)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2303.17606)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://avatar-craft.github.io)
