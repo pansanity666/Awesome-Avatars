@@ -32,6 +32,11 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![Star](https://img.shields.io/github/stars/sail-sg/GP-Nerf?style=social)](https://github.com/sail-sg/GP-Nerf)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2112.04312.pdf)
 
++ [HumanNeRF: Efficiently Generated Human Radiance Field from Sparse Inputs](https://arxiv.org/pdf/2112.02789.pdf) (CVPR 2022)  
+  [![Star](https://img.shields.io/github/stars/zhaofuq/HumanNeRF?style=social)](https://github.com/zhaofuq/HumanNeRF)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2112.02789.pdf)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://zhaofuq.github.io/humannerf/) 
+
 + [TransHuman: A Transformer-based Human Representation for Generalizable Neural Human Rendering](https://arxiv.org/abs/2307.12291) (ICCV 2023)  
   [![Star](https://img.shields.io/github/stars/pansanity666/TransHuman?style=social)](https://github.com/pansanity666/TransHuman/)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.12291)
