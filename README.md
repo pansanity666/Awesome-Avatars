@@ -54,7 +54,7 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2212.07422.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zju3dv.github.io/animatable_nerf/) 
 
-+ [InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds](https://arxiv.org/pdf/2012.15838.pdf) (Arxiv)  
++ [InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds](https://arxiv.org/pdf/2012.15838.pdf) (arXiv)  
   [![Star](https://img.shields.io/github/stars/tijiang13/InstantAvatar?style=social)](https://github.com/tijiang13/InstantAvatar)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2212.07422.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://tijiang13.github.io/InstantAvatar/) 
@@ -103,6 +103,12 @@ List of recent advances for human avatars, including generation, reconstruction,
 
 
 ### Text-to-Avatar
++ [DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models](http://arxiv.org/abs/2304.00916) (arXiv 06/04/2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2304.00916)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://yukangcao.github.io/DreamAvatar/) 
+
++ [Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model](https://arxiv.org/abs/2308.07749) (arXiv 15/08/2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.07749)
 
 
 
