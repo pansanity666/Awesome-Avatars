@@ -246,6 +246,11 @@ List of recent advances for human avatars, including generation, reconstruction,
 - [CLOTH4D: A Dataset for Clothed Human Reconstruction](https://openaccess.thecvf.com/content/CVPR2023/papers/Zou_CLOTH4D_A_Dataset_for_Clothed_Human_Reconstruction_CVPR_2023_paper.pdf) (CVPR 2023)  
   [![Star](https://img.shields.io/github/stars/AemikaChow/CLOTH4D?style=social)](https://github.com/AemikaChow/CLOTH4D)
 
+- [High-fidelity 3D Human Digitization from Single 2K Resolution Images](https://arxiv.org/pdf/2303.15108.pdf) (CVPR2023 Highlight)  
+  [![Star](https://img.shields.io/github/stars/SangHunHan92/2K2K?style=social)](https://github.com/SangHunHan92/2K2K)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2303.15108.pdf)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://sanghunhan92.github.io/conference/2K2K/)
+
 ### Aknowledgement
 
 - We thank the template from [Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion).
