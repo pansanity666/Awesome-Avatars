@@ -23,6 +23,11 @@ List of recent advances for human avatars, including generation, reconstruction,
 
 
 ### Generalizable Avatar from Multi-view
++ [Neural Human Performer: Learning Generalizable Radiance Fields for Human Performance Rendering](https://arxiv.org/pdf/2109.07448.pdf) (NIPS 2021)  
+  [![Star](https://img.shields.io/github/stars/YoungJoongUNC/Neural_Human_Performer?style=social)](https://github.com/YoungJoongUNC/Neural_Human_Performer)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2109.07448.pdf)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://youngjoongunc.github.io/nhp/) 
+
 + [TransHuman: A Transformer-based Human Representation for Generalizable Neural Human Rendering](https://arxiv.org/abs/2307.12291) (ICCV 2023)  
   [![Star](https://img.shields.io/github/stars/pansanity666/TransHuman?style=social)](https://github.com/pansanity666/TransHuman/)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.12291)
