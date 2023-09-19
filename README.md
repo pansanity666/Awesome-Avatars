@@ -131,6 +131,31 @@ List of recent advances for human avatars, including generation, reconstruction,
 - [Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model](https://arxiv.org/abs/2308.07749) (arXiv 15/08/2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.07749)
 
+- [DreamWaltz: Make a Scene with Complex 3D Animatable Avatars](https://arxiv.org/pdf/2305.12529) (arXiv)
+  [![Star](https://img.shields.io/github/stars/IDEA-Research/DreamWaltz?style=social)](https://github.com/IDEA-Research/DreamWaltz)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2305.12529)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://idea-research.github.io/DreamWaltz/)
+
+- [AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control](https://arxiv.org/pdf/2303.17606) (arXiv)  
+  [![Star](https://img.shields.io/github/stars/songrise/AvatarCraft?style=social)](https://github.com/songrise/AvatarCraft)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2303.17606)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://avatar-craft.github.io)
+
+- [AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars](https://arxiv.org/pdf/2205.08535) (SIGGRAPH 2022)  
+  [![Star](https://img.shields.io/github/stars/hongfz16/AvatarCLIP?style=social)](https://github.com/hongfz16/AvatarCLIP)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2205.08535)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://hongfz16.github.io/projects/AvatarCLIP.html)
+
+- [AvatarBooth: High-Quality and Customizable 3D Human Avatar Generation](https://arxiv.org/pdf/2306.09864) (SIGGRAPH 2022)  
+  [![Star](https://img.shields.io/github/stars/zeng-yifei/AvatarBooth?style=social)](https://github.com/zeng-yifei/AvatarBooth)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2306.09864)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://zeng-yifei.github.io/avatarbooth_page/)
+
+- [AvatarFusion: Zero-shot Generation of Clothing-Decoupled 3D Avatars Using 2D Diffusion](https://arxiv.org/pdf/2307.06526.pdf) (ACMMM 2023)  
+  [![Star](https://img.shields.io/github/stars/HansenHuang0823/AvatarFusion?style=social)](https://github.com/HansenHuang0823/AvatarFusion)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2307.06526.pdf)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://hansenhuang0823.github.io/AvatarFusion/)
+
 ### Avatar Interaction
 
 - [Hi4D: 4D Instance Segmentation of Close Human Interaction](https://arxiv.org/abs/2303.15380v1) (CVPR 2023)  
@@ -161,6 +186,12 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![Star](https://img.shields.io/github/stars/nkolot/SPIN?style=social)](https://github.com/nkolot/SPIN)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1909.12828)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://www.nikoskolot.com/projects/spin/)
+- [Global-to-Local Modeling for Video-based 3D Human Pose and Shape Estimation](https://arxiv.org/pdf/2303.14747.pdf) (CVPR 2023)  
+  [![Star](https://img.shields.io/github/stars/sxl142/GLoT?style=social)](https://github.com/sxl142/GLoT)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2303.14747.pdf)
+- [JOTR: 3D Joint Contrastive Learning with Transformers for Occluded Human Mesh Recovery](https://arxiv.org/abs/2307.16377) (ICCV 2023)  
+  [![Star](https://img.shields.io/github/stars/xljh0520/jotr?style=social)](https://github.com/xljh0520/jotr)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.16377)
 
 ### Aknowledgement
 
