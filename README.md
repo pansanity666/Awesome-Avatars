@@ -21,7 +21,7 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2204.08839.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/nogu-atsu/ENARF-GAN)
 
-- [GENERATIVE NEURAL ARTICULATED RADIANCE FIELDS](https://arxiv.org/pdf/2206.14314.pdf) (NEURIPS 2022)  
+- [GENERATIVE NEURAL ARTICULATED RADIANCE FIELDS](https://arxiv.org/pdf/2206.14314.pdf) (NIPS 2022)  
   [![Star](https://img.shields.io/github/stars/alexanderbergman7/GNARF?style=social)](https://github.com/alexanderbergman7/GNARF)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2206.14314.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/alexanderbergman7/GNARF)
