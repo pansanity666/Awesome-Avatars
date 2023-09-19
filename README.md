@@ -7,7 +7,7 @@ List of recent advances for human avatars, including generation, reconstruction,
 <!-- - [Open-source Toolboxes and Foundation Models](#open-source-toolboxes-and-foundation-models) -->
 
 - [Avatar Generation](#avatar-generation)
-- [Avatar Reconstruction](#avatar-reconstruction)
+- [Per-subject Avatar Reconstruction](#per-subject-avatar-reconstruction)
 - [Generalizable Avatar Novel View Synthesis](#generalizable-avatar-novel-view-synthesis)
 - [Generalizable Avatar Mesh Reconstruction](#generalizable-avatar-mesh-reconstruction)
 - [Text-to-Avatar](#text-to-avatar)
@@ -43,7 +43,7 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2305.02312.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zj-dong.github.io/AG3D)
 
-### Avatar Reconstruction
+### Per-subject Avatar Reconstruction
 
 - [Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://arxiv.org/pdf/2012.15838.pdf) (CVPR 2021)  
   [![Star](https://img.shields.io/github/stars/zju3dv/neuralbody?style=social)](https://github.com/zju3dv/neuralbody)
