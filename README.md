@@ -123,6 +123,12 @@ List of recent advances for human avatars, including generation, reconstruction,
 - [Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model](https://arxiv.org/abs/2308.07749) (arXiv 15/08/2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.07749)
 
+- [AvatarFusion: Zero-shot Generation of Clothing-Decoupled 3D Avatars Using 2D Diffusion](https://arxiv.org/pdf/2307.06526.pdf) (ACMMM 2023)  
+  [![Star](https://img.shields.io/github/stars/HansenHuang0823/AvatarFusion?style=social)](https://github.com/HansenHuang0823/AvatarFusion)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2307.06526.pdf)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://hansenhuang0823.github.io/AvatarFusion/)
+
+
 ### Avatar Interaction
 
 - [Hi4D: 4D Instance Segmentation of Close Human Interaction](https://arxiv.org/abs/2303.15380v1) (CVPR 2023)  
@@ -134,6 +140,15 @@ List of recent advances for human avatars, including generation, reconstruction,
 
 
 ### SMPL Estimation
+
+- [Global-to-Local Modeling for Video-based 3D Human Pose and Shape Estimation](https://arxiv.org/pdf/2303.14747.pdf) (CVPR 2023)  
+  [![Star](https://img.shields.io/github/stars/sxl142/GLoT?style=social)](https://github.com/sxl142/GLoT)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2303.14747.pdf)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/sxl142/GLoT)
+
+- [JOTR: 3D Joint Contrastive Learning with Transformers for Occluded Human Mesh Recovery](https://arxiv.org/abs/2307.16377) (ICCV 2023)  
+  [![Star](https://img.shields.io/github/stars/xljh0520/jotr?style=social)](https://github.com/xljh0520/jotr)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.16377)
 
 
 ### Aknowledgement
