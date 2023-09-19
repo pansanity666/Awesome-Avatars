@@ -11,7 +11,15 @@ List of recent advances for human avatars, including generation, reconstruction,
 - [Text-to-Avatar](#text-to-avatar)
 
 ### Avatar Generation
++ [Unsupervised Learning of Efficient Geometry-Aware Neural Articulated Representations](https://arxiv.org/pdf/2204.08839.pdf) (ECCV 2022)  
+  [![Star](https://img.shields.io/github/stars/nogu-atsu/ENARF-GAN?style=social)](https://github.com/nogu-atsu/ENARF-GAN)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2204.08839.pdf)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/nogu-atsu/ENARF-GAN) 
 
++ [EVA3D: Compositional 3D Human Generation from 2D Image Collections](https://arxiv.org/pdf/2210.04888.pdf) (ICLR 2023)  
+  [![Star](https://img.shields.io/github/stars/hongfz16/EVA3D?style=social)](https://github.com/hongfz16/EVA3D)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2210.04888.pdf)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://hongfz16.github.io/projects/EVA3D) 
 
 
 ### Avatar Reconstruction
