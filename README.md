@@ -219,6 +219,9 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.10899)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://tada.is.tue.mpg.de/)
 
+- [Guide3D: Create 3D Avatars from Text and Image Guidance](https://arxiv.org/pdf/2308.09705.pdf) (arXiv 2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2308.09705.pdf)
+
 ### Avatar Interaction
 
 - [Hi4D: 4D Instance Segmentation of Close Human Interaction](https://arxiv.org/abs/2303.15380v1) (CVPR 2023)  
@@ -275,6 +278,11 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![Star](https://img.shields.io/github/stars/ytrock/THuman2.0-Dataset?style=social)](https://github.com/ytrock/THuman2.0-Dataset)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2105.01859)
   [![Website](https://img.shields.io/badge/Website-9cf)](http://www.liuyebin.com/Function4D/Function4D.html)
+
+- [HuMMan: Multi-Modal 4D Human Dataset for Versatile Sensing and Modeling](https://arxiv.org/pdf/2204.13686.pdf) (ECCV 2022 Oral)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2204.13686.pdf)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://caizhongang.github.io/projects/HuMMan/)
+
 
 ### Aknowledgement
 
