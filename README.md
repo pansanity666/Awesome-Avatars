@@ -7,16 +7,16 @@ List of recent advances for human avatars, including generation, reconstruction,
 <!-- - [Open-source Toolboxes and Foundation Models](#open-source-toolboxes-and-foundation-models) -->
 
 - [Awesome-Avatars ](#awesome-avatars-)
-    - [Avatar Generation](#avatar-generation)
-    - [Per-subject Avatar Reconstruction](#per-subject-avatar-reconstruction)
-    - [Generalizable Avatar Novel View Synthesis](#generalizable-avatar-novel-view-synthesis)
-    - [Generalizable Avatar Mesh Reconstruction](#generalizable-avatar-mesh-reconstruction)
-    - [Text-to-Avatar](#text-to-avatar)
-    - [Avatar Interaction](#avatar-interaction)
-    - [Motion Generation](#motion-generation)
-    - [SMPL Estimation](#smpl-estimation)
-    - [Dataset](#dataset)
-    - [Aknowledgement](#aknowledgement)
+  - [Avatar Generation](#avatar-generation)
+  - [Per-subject Avatar Reconstruction](#per-subject-avatar-reconstruction)
+  - [Generalizable Avatar Novel View Synthesis](#generalizable-avatar-novel-view-synthesis)
+  - [Generalizable Avatar Mesh Reconstruction](#generalizable-avatar-mesh-reconstruction)
+  - [Text-to-Avatar](#text-to-avatar)
+  - [Avatar Interaction](#avatar-interaction)
+  - [Motion Generation](#motion-generation)
+  - [SMPL Estimation](#smpl-estimation)
+  - [Dataset](#dataset)
+  - [Aknowledgement](#aknowledgement)
 
 ### Avatar Generation
 
@@ -24,9 +24,6 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![Star](https://img.shields.io/github/stars/nogu-atsu/ENARF-GAN?style=social)](https://github.com/nogu-atsu/ENARF-GAN)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2204.08839.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/nogu-atsu/ENARF-GAN)
-
-- [ZeroAvatar: Zero-shot 3D Avatar Generation from a Single Image.](https://arxiv.org/abs/2305.16411) (arXiv 25/5/2023)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.16411)
 
 - [GENERATIVE NEURAL ARTICULATED RADIANCE FIELDS](https://arxiv.org/pdf/2206.14314.pdf) (NIPS 2022)  
   [![Star](https://img.shields.io/github/stars/alexanderbergman7/GNARF?style=social)](https://github.com/alexanderbergman7/GNARF)
@@ -174,6 +171,9 @@ List of recent advances for human avatars, including generation, reconstruction,
 
 ### Text-to-Avatar
 
+- [ZeroAvatar: Zero-shot 3D Avatar Generation from a Single Image.](https://arxiv.org/abs/2305.16411) (arXiv 25/5/2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.16411)
+
 - [DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models](http://arxiv.org/abs/2304.00916) (arXiv 06/04/2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2304.00916)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yukangcao.github.io/DreamAvatar/)
@@ -229,6 +229,15 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.15380v1)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yifeiyin04.github.io/Hi4D/)
 
+- [NeuralDome: A Neural Modeling Pipeline on Multi-View Human-Object Interactions.](https://arxiv.org/abs/2212.07626) (CVPR 2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.07626)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://juzezhang.github.io/NeuralDome/)
+
+- [HOSNeRF: Dynamic Human-Object-Scene Neural Radiance Fields from a Single Video](https://arxiv.org/abs/2304.12281) (CVPR 2023)  
+  [![Star](https://img.shields.io/github/stars/TencentARC/HOSNeRF?style=social)](https://github.com/TencentARC/HOSNeRF)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.12281)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/HOSNeRF/)
+
 ### Motion Generation
 
 - [MotionGPT: Human Motion as a Foreign Language](https://arxiv.org/pdf/2306.14795.pdf) (arxiv)  
@@ -282,7 +291,6 @@ List of recent advances for human avatars, including generation, reconstruction,
 - [HuMMan: Multi-Modal 4D Human Dataset for Versatile Sensing and Modeling](https://arxiv.org/pdf/2204.13686.pdf) (ECCV 2022 Oral)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2204.13686.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://caizhongang.github.io/projects/HuMMan/)
-
 
 ### Aknowledgement
 
