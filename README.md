@@ -6,17 +6,17 @@ List of recent advances for human avatars, including generation, reconstruction,
 
 <!-- - [Open-source Toolboxes and Foundation Models](#open-source-toolboxes-and-foundation-models) -->
 
-- [Awesome-Avatars ](#awesome-avatars-)
-    - [Avatar Generation](#avatar-generation)
-    - [Per-subject Avatar Reconstruction](#per-subject-avatar-reconstruction)
-    - [Generalizable Avatar Novel View Synthesis](#generalizable-avatar-novel-view-synthesis)
-    - [Generalizable Avatar Mesh Reconstruction](#generalizable-avatar-mesh-reconstruction)
-    - [Text-to-Avatar](#text-to-avatar)
-    - [Avatar Interaction](#avatar-interaction)
-    - [Motion Generation](#motion-generation)
-    - [SMPL Estimation](#smpl-estimation)
-    - [Dataset](#dataset)
-    - [Aknowledgement](#aknowledgement)
+- [Awesome-Avatars](#avatar-generation)
+  - [Avatar Generation](#avatar-generation)
+  - [Per-subject Avatar Reconstruction](#per-subject-avatar-reconstruction)
+  - [Generalizable Avatar Novel View Synthesis](#generalizable-avatar-novel-view-synthesis)
+  - [Generalizable Avatar Mesh Reconstruction](#generalizable-avatar-mesh-reconstruction)
+  - [Text-to-Avatar](#text-to-avatar)
+  - [Avatar Interaction](#avatar-interaction)
+  - [Motion Generation](#motion-generation)
+  - [SMPL Estimation](#smpl-estimation)
+  - [Dataset](#dataset)
+  - [Aknowledgement](#aknowledgement)
 
 ### Avatar Generation
 
@@ -265,6 +265,16 @@ List of recent advances for human avatars, including generation, reconstruction,
 
 - [CLOTH4D: A Dataset for Clothed Human Reconstruction](https://openaccess.thecvf.com/content/CVPR2023/papers/Zou_CLOTH4D_A_Dataset_for_Clothed_Human_Reconstruction_CVPR_2023_paper.pdf) (CVPR 2023)  
   [![Star](https://img.shields.io/github/stars/AemikaChow/CLOTH4D?style=social)](https://github.com/AemikaChow/CLOTH4D)
+
+- [High-fidelity 3D Human Digitization from Single 2K Resolution Images (2K2K)](https://arxiv.org/abs/2303.15108) (CVPR 2023)  
+  [![Star](https://img.shields.io/github/stars/SangHunHan92/2K2K?style=social)](https://github.com/SangHunHan92/2K2K)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.15108)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://sanghunhan92.github.io/conference/2K2K/)
+
+- [Function4D: Real-time Human Volumetric Capture from Very Sparse RGBD Sensors (Thuman-2.0 Dataset)](https://arxiv.org/abs/2105.01859) (CVPR 2021 Oral)  
+  [![Star](https://img.shields.io/github/stars/ytrock/THuman2.0-Dataset?style=social)](https://github.com/ytrock/THuman2.0-Dataset)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2105.01859)
+  [![Website](https://img.shields.io/badge/Website-9cf)](http://www.liuyebin.com/Function4D/Function4D.html)
 
 ### Aknowledgement
 
