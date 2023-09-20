@@ -75,6 +75,21 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2203.12575.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/apple/ml-neuman)
 
+- [HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video](https://arxiv.org/abs/2201.04127) (CVPR 2022)  
+  [![Star](https://img.shields.io/github/stars/chungyiweng/humannerf?style=social)](https://github.com/chungyiweng/humannerf)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2201.04127)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://grail.cs.washington.edu/projects/humannerf/)
+
+- [MonoHuman: Animatable Human Neural Field from Monocular Video](https://arxiv.org/abs/2304.02001) (CVPR 2023)  
+  [![Star](https://img.shields.io/github/stars/Yzmblog/MonoHuman?style=social)](https://github.com/Yzmblog/MonoHuman)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.02001)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://yzmblog.github.io/projects/MonoHuman/)
+
+- [Vid2Avatar: 3D Avatar Reconstruction From Videos in the Wild via Self-Supervised Scene Decomposition](https://arxiv.org/abs/2302.11566) (CVPR 2023)  
+  [![Star](https://img.shields.io/github/stars/MoyGcc/vid2avatar?style=social)](https://github.com/MoyGcc/vid2avatar)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.11566)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://moygcc.github.io/vid2avatar/)
+
 - [TeCH: Text-guided Reconstruction of Lifelike Clothed Humans](http://arxiv.org/abs/2308.08545) (arXiv 19/08/2023)  
   [![Star](https://img.shields.io/github/stars/huangyangyi/TeCH?style=social)](https://github.com/huangyangyi/TeCH)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2308.08545)
@@ -90,6 +105,11 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![Star](https://img.shields.io/github/stars/YoungJoongUNC/Neural_Human_Performer?style=social)](https://github.com/YoungJoongUNC/Neural_Human_Performer)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2109.07448.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://youngjoongunc.github.io/nhp/)
+
+- [MPS-NeRF: Generalizable 3D Human Rendering from Multiview Images](https://arxiv.org/abs/2203.16875) (TPAMI 2022)  
+  [![Star](https://img.shields.io/github/stars/gaoxiangjun/MPS-NeRF?style=social)](https://github.com/gaoxiangjun/MPS-NeRF)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.16875)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://gaoxiangjun.github.io/mps_nerf/)
 
 - [GP-NeRF: Geometry-Guided Progressive NeRF for Generalizable and Efficient Neural Human Rendering](https://arxiv.org/pdf/2112.04312.pdf) (ECCV 2022)  
   [![Star](https://img.shields.io/github/stars/sail-sg/GP-Nerf?style=social)](https://github.com/sail-sg/GP-Nerf)
@@ -246,10 +266,15 @@ List of recent advances for human avatars, including generation, reconstruction,
 - [CLOTH4D: A Dataset for Clothed Human Reconstruction](https://openaccess.thecvf.com/content/CVPR2023/papers/Zou_CLOTH4D_A_Dataset_for_Clothed_Human_Reconstruction_CVPR_2023_paper.pdf) (CVPR 2023)  
   [![Star](https://img.shields.io/github/stars/AemikaChow/CLOTH4D?style=social)](https://github.com/AemikaChow/CLOTH4D)
 
-- [High-fidelity 3D Human Digitization from Single 2K Resolution Images](https://arxiv.org/pdf/2303.15108.pdf) (CVPR2023 Highlight)  
+- [High-fidelity 3D Human Digitization from Single 2K Resolution Images (2K2K)](https://arxiv.org/abs/2303.15108) (CVPR 2023)  
   [![Star](https://img.shields.io/github/stars/SangHunHan92/2K2K?style=social)](https://github.com/SangHunHan92/2K2K)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2303.15108.pdf)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.15108)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://sanghunhan92.github.io/conference/2K2K/)
+
+- [Function4D: Real-time Human Volumetric Capture from Very Sparse RGBD Sensors (Thuman-2.0 Dataset)](https://arxiv.org/abs/2105.01859) (CVPR 2021 Oral)  
+  [![Star](https://img.shields.io/github/stars/ytrock/THuman2.0-Dataset?style=social)](https://github.com/ytrock/THuman2.0-Dataset)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2105.01859)
+  [![Website](https://img.shields.io/badge/Website-9cf)](http://www.liuyebin.com/Function4D/Function4D.html)
 
 ### Aknowledgement
 
