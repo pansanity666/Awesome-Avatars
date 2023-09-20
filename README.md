@@ -91,6 +91,11 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2109.07448.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://youngjoongunc.github.io/nhp/)
 
+- [MPS-NeRF: Generalizable 3D Human Rendering from Multiview Images](https://arxiv.org/abs/2203.16875) (TPAMI 2022)  
+  [![Star](https://img.shields.io/github/stars/gaoxiangjun/MPS-NeRF?style=social)](https://github.com/gaoxiangjun/MPS-NeRF)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.16875)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://gaoxiangjun.github.io/mps_nerf/)
+
 - [GP-NeRF: Geometry-Guided Progressive NeRF for Generalizable and Efficient Neural Human Rendering](https://arxiv.org/pdf/2112.04312.pdf) (ECCV 2022)  
   [![Star](https://img.shields.io/github/stars/sail-sg/GP-Nerf?style=social)](https://github.com/sail-sg/GP-Nerf)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2112.04312.pdf)
