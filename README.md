@@ -117,10 +117,13 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2112.02789.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zhaofuq.github.io/humannerf/)
 
-- [TransHuman: A Transformer-based Human Representation for Generalizable Neural Human Rendering](https://arxiv.org/abs/2307.12291) (ICCV 2023)  
-  [![Star](https://img.shields.io/github/stars/pansanity666/TransHuman?style=social)](https://github.com/pansanity666/TransHuman/)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.12291)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://pansanity666.github.io/TransHuman/)
+- [MonoNHR: Monocular Neural Human Renderer](https://arxiv.org/abs/2210.00627) (3DV 2022)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.00627)
+
+- [Neural Novel Actor: Learning a Generalized Animatable Neural Representation for Human Actors](https://arxiv.org/abs/2208.11905) (TVCG 2023)  
+  [![Star](https://img.shields.io/github/stars/Talegqz/neural_novel_actor?style=social)](https://github.com/Talegqz/neural_novel_actor)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2208.11905)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://talegqz.github.io/neural_novel_actor/)
 
 - [GHuNeRF: Generalizable Human NeRF from a Monocular Video](https://arxiv.org/pdf/2308.16576v2.pdf) (arXiv 03/09/2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2308.16576v2.pdf)
@@ -133,6 +136,11 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![Star](https://img.shields.io/github/stars/skhu101/SHERF?style=social)](https://github.com/skhu101/SHERF)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.12791)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://skhu101.github.io/SHERF/)
+
+- [TransHuman: A Transformer-based Human Representation for Generalizable Neural Human Rendering](https://arxiv.org/abs/2307.12291) (ICCV 2023)  
+  [![Star](https://img.shields.io/github/stars/pansanity666/TransHuman?style=social)](https://github.com/pansanity666/TransHuman/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.12291)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://pansanity666.github.io/TransHuman/)
 
 ### Generalizable Avatar Mesh Reconstruction
 
