@@ -25,7 +25,7 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2204.08839.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/nogu-atsu/ENARF-GAN)
 
-- [GENERATIVE NEURAL ARTICULATED RADIANCE FIELDS](https://arxiv.org/pdf/2206.14314.pdf) (NIPS 2022)  
+- [GENERATIVE NEURAL ARTICULATED RADIANCE FIELDS](https://arxiv.org/pdf/2206.14314.pdf) (NeurIPS 2022)  
   [![Star](https://img.shields.io/github/stars/alexanderbergman7/GNARF?style=social)](https://github.com/alexanderbergman7/GNARF)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2206.14314.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/alexanderbergman7/GNARF)
@@ -97,7 +97,7 @@ List of recent advances for human avatars, including generation, reconstruction,
 
 ### Generalizable Avatar Novel View Synthesis
 
-- [Neural Human Performer: Learning Generalizable Radiance Fields for Human Performance Rendering](https://arxiv.org/pdf/2109.07448.pdf) (NIPS 2021)  
+- [Neural Human Performer: Learning Generalizable Radiance Fields for Human Performance Rendering](https://arxiv.org/pdf/2109.07448.pdf) (NeurIPS 2021)  
   [![Star](https://img.shields.io/github/stars/YoungJoongUNC/Neural_Human_Performer?style=social)](https://github.com/YoungJoongUNC/Neural_Human_Performer)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2109.07448.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://youngjoongunc.github.io/nhp/)
@@ -142,6 +142,9 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![Website](https://img.shields.io/badge/Website-9cf)](https://pansanity666.github.io/TransHuman/)
 
 ### Generalizable Avatar Mesh Reconstruction
+
+- [Global-correlated 3D-decoupling Transformer for Clothed Avatar Reconstruction](https://arxiv.org/pdf/2112.09127.pdf) (NeurIPS 2023)  
+  [![Star](https://img.shields.io/github/stars/River-Zhang/GTA?style=social)](https://github.com/River-Zhang/GTA)
 
 - [ICON : Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://arxiv.org/pdf/2112.09127.pdf) (CVPR 2022)  
   [![Star](https://img.shields.io/github/stars/YuliangXiu/ICON?style=social)](https://github.com/YuliangXiu/ICON)
