@@ -6,17 +6,17 @@ List of recent advances for human avatars, including generation, reconstruction,
 
 <!-- - [Open-source Toolboxes and Foundation Models](#open-source-toolboxes-and-foundation-models) -->
 
-- [Awesome-Avatars ](#awesome-avatars-)
-  - [Avatar Generation](#avatar-generation)
-  - [Per-subject Avatar Reconstruction](#per-subject-avatar-reconstruction)
-  - [Generalizable Avatar Novel View Synthesis](#generalizable-avatar-novel-view-synthesis)
-  - [Generalizable Avatar Mesh Reconstruction](#generalizable-avatar-mesh-reconstruction)
-  - [Text-to-Avatar](#text-to-avatar)
-  - [Avatar Interaction](#avatar-interaction)
-  - [Motion Generation](#motion-generation)
-  - [SMPL Estimation](#smpl-estimation)
-  - [Dataset](#dataset)
-  - [Aknowledgement](#aknowledgement)
+- [Awesome Avatars ](#awesome-avatars-)
+    - [Avatar Generation](#avatar-generation)
+    - [Per-subject Avatar Reconstruction](#per-subject-avatar-reconstruction)
+    - [Generalizable Avatar Novel View Synthesis](#generalizable-avatar-novel-view-synthesis)
+    - [Generalizable Avatar Mesh Reconstruction](#generalizable-avatar-mesh-reconstruction)
+    - [Text-to-Avatar](#text-to-avatar)
+    - [Avatar Interaction](#avatar-interaction)
+    - [Motion Generation](#motion-generation)
+    - [SMPL Estimation](#smpl-estimation)
+    - [Dataset](#dataset)
+    - [Aknowledgement](#aknowledgement)
 
 ### Avatar Generation
 
@@ -282,7 +282,10 @@ List of recent advances for human avatars, including generation, reconstruction,
 - [JOTR: 3D Joint Contrastive Learning with Transformers for Occluded Human Mesh Recovery](https://arxiv.org/abs/2307.16377) (ICCV 2023)  
   [![Star](https://img.shields.io/github/stars/xljh0520/jotr?style=social)](https://github.com/xljh0520/jotr)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.16377)
-
+- [TRACE: 5D Temporal Regression of Avatars with Dynamic Cameras in 3D Environments](https://openaccess.thecvf.com/content/CVPR2023/papers/Sun_TRACE_5D_Temporal_Regression_of_Avatars_With_Dynamic_Cameras_in_CVPR_2023_paper.pdf) (CVPR 2023)  
+  [![Star](https://img.shields.io/github/stars/Arthur151/ROMP?style=social)](https://github.com/Arthur151/ROMP)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2306.02850.pdf)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://www.yusun.work/TRACE/TRACE.html)
 ### Dataset
 
 - [CLOTH4D: A Dataset for Clothed Human Reconstruction](https://openaccess.thecvf.com/content/CVPR2023/papers/Zou_CLOTH4D_A_Dataset_for_Clothed_Human_Reconstruction_CVPR_2023_paper.pdf) (CVPR 2023)  
