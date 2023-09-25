@@ -286,6 +286,10 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![Star](https://img.shields.io/github/stars/Arthur151/ROMP?style=social)](https://github.com/Arthur151/ROMP)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2306.02850.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://www.yusun.work/TRACE/TRACE.html)
+- [GLAMR: Global occlusion-aware human mesh recovery with dynamic cameras](https://openaccess.thecvf.com/content/CVPR2022/papers/Yuan_GLAMR_Global_Occlusion-Aware_Human_Mesh_Recovery_With_Dynamic_Cameras_CVPR_2022_paper.pdf) (CVPR 2022 Oral)  
+  [![Star](https://img.shields.io/github/stars/NVlabs/GLAMR?style=social)](https://github.com/NVlabs/GLAMR)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2112.01524.pdf)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://nvlabs.github.io/GLAMR/)
 ### Dataset
 
 - [CLOTH4D: A Dataset for Clothed Human Reconstruction](https://openaccess.thecvf.com/content/CVPR2023/papers/Zou_CLOTH4D_A_Dataset_for_Clothed_Human_Reconstruction_CVPR_2023_paper.pdf) (CVPR 2023)  
