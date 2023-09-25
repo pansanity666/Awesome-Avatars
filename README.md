@@ -290,6 +290,19 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![Star](https://img.shields.io/github/stars/NVlabs/GLAMR?style=social)](https://github.com/NVlabs/GLAMR)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2112.01524.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://nvlabs.github.io/GLAMR/)
+- [D&d: Learning human dynamics from dynamic camera](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650470.pdf) (ECCV 2022 Oral)  
+  [![Star](https://img.shields.io/github/stars/Jeff-sjtu/DnD?style=social)](https://github.com/Jeff-sjtu/DnD)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2209.08790.pdf)
+- [CLIFF: Carrying location information in full frames into human pose and shape estimation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650580.pdf) (ECCV 2022 Oral)  
+  [![Star](https://img.shields.io/github/stars/haofanwang/CLIFF?style=social)](https://github.com/haofanwang/CLIFF)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2208.00571.pdf)
+- [End-to-end human pose and mesh reconstruction with transformers.](https://openaccess.thecvf.com/content/CVPR2021/papers/Lin_End-to-End_Human_Pose_and_Mesh_Reconstruction_with_Transformers_CVPR_2021_paper.pdf) (CVPR 2021)  
+  [![Star](https://img.shields.io/github/stars/microsoft/MeshTransformer?style=social)](https://github.com/microsoft/MeshTransformer)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2012.09760.pdf)
+- [Hybrik: A hybrid analytical-neural inverse kinematics solution for 3d human pose and shape estimation](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_HybrIK_A_Hybrid_Analytical-Neural_Inverse_Kinematics_Solution_for_3D_Human_CVPR_2021_paper.pdf) (CVPR 2021)  
+  [![Star](https://img.shields.io/github/stars/Jeff-sjtu/HybrIK?style=social)](https://github.com/Jeff-sjtu/HybrIK)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2011.14672.pdf)
+
 ### Dataset
 
 - [CLOTH4D: A Dataset for Clothed Human Reconstruction](https://openaccess.thecvf.com/content/CVPR2023/papers/Zou_CLOTH4D_A_Dataset_for_Clothed_Human_Reconstruction_CVPR_2023_paper.pdf) (CVPR 2023)  
