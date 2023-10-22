@@ -86,7 +86,7 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.11566)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://moygcc.github.io/vid2avatar/)
 
-- [TeCH: Text-guided Reconstruction of Lifelike Clothed Humans](http://arxiv.org/abs/2308.08545) (arXiv 19/08/2023)  
+- [TeCH: Text-guided Reconstruction of Lifelike Clothed Humans](http://arxiv.org/abs/2308.08545) (3DV 2024)  
   [![Star](https://img.shields.io/github/stars/huangyangyi/TeCH?style=social)](https://github.com/huangyangyi/TeCH)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2308.08545)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://huangyangyi.github.io/TeCH/)
