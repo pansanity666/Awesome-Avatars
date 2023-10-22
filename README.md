@@ -49,6 +49,10 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.01162)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://x-zhangyang.github.io/2023_Get3DHuman/)
 
+- [3D Magic Mirror: Clothing Reconstruction from a Single Image via a Causal Perspective.](https://arxiv.org/abs/2204.13096) (arXiv 2022)  
+  [![Star](https://img.shields.io/github/stars/layumi/3D-Magic-Mirror?style=social)](https://github.com/layumi/3D-Magic-Mirror)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2204.13096)
+
 ### Per-subject Avatar Reconstruction
 
 - [Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://arxiv.org/pdf/2012.15838.pdf) (CVPR 2021)  
