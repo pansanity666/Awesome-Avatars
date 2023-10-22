@@ -61,7 +61,7 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2212.07422.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zju3dv.github.io/animatable_nerf/)
 
-- [InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds](https://arxiv.org/pdf/2012.15838.pdf) (arXiv 20/12/2022)  
+- [InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds](https://arxiv.org/pdf/2012.15838.pdf) (CVPR 2023)  
   [![Star](https://img.shields.io/github/stars/tijiang13/InstantAvatar?style=social)](https://github.com/tijiang13/InstantAvatar)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2212.07422.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://tijiang13.github.io/InstantAvatar/)
