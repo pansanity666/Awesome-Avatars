@@ -49,6 +49,11 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.01162)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://x-zhangyang.github.io/2023_Get3DHuman/)
 
+- [UnitedHuman: Harnessing Multi-Source Data for High-Resolution Human Generation](https://arxiv.org/abs/2309.14335) (ICCV 2023)  
+[![Star](https://img.shields.io/github/stars/UnitedHuman/UnitedHuman?style=social)](https://github.com/UnitedHuman/UnitedHuman)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.14335)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://unitedhuman.github.io/)
+
 ### Per-subject Avatar Reconstruction
 
 - [Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://arxiv.org/pdf/2012.15838.pdf) (CVPR 2021)  
