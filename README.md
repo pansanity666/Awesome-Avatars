@@ -49,10 +49,9 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.01162)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://x-zhangyang.github.io/2023_Get3DHuman/)
 
-- [UnitedHuman: Harnessing Multi-Source Data for High-Resolution Human Generation](https://arxiv.org/abs/2309.14335) (ICCV 2023)  
-[![Star](https://img.shields.io/github/stars/UnitedHuman/UnitedHuman?style=social)](https://github.com/UnitedHuman/UnitedHuman)
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.14335)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://unitedhuman.github.io/)
+- [3D Magic Mirror: Clothing Reconstruction from a Single Image via a Causal Perspective.](https://arxiv.org/abs/2204.13096) (arXiv 2022)  
+  [![Star](https://img.shields.io/github/stars/layumi/3D-Magic-Mirror?style=social)](https://github.com/layumi/3D-Magic-Mirror)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2204.13096)
 
 ### Per-subject Avatar Reconstruction
 
@@ -65,11 +64,6 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![Star](https://img.shields.io/github/stars/zju3dv/animatable_nerf?style=social)](https://github.com/zju3dv/animatable_nerf)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2212.07422.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zju3dv.github.io/animatable_nerf/)
-
-- [InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds](https://arxiv.org/pdf/2012.15838.pdf) (arXiv 20/12/2022)  
-  [![Star](https://img.shields.io/github/stars/tijiang13/InstantAvatar?style=social)](https://github.com/tijiang13/InstantAvatar)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2212.07422.pdf)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://tijiang13.github.io/InstantAvatar/)
 
 - [Neural Human Radiance Field from a Single Video](https://arxiv.org/pdf/2203.12575.pdf) (ECCV 2022)  
   [![Star](https://img.shields.io/github/stars/apple/ml-neuman?style=social)](https://github.com/apple/ml-neuman)
@@ -86,19 +80,25 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.02001)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yzmblog.github.io/projects/MonoHuman/)
 
+
+- [InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds](https://arxiv.org/pdf/2012.15838.pdf) (CVPR 2023)  
+  [![Star](https://img.shields.io/github/stars/tijiang13/InstantAvatar?style=social)](https://github.com/tijiang13/InstantAvatar)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2212.07422.pdf)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://tijiang13.github.io/InstantAvatar/)
+
 - [Vid2Avatar: 3D Avatar Reconstruction From Videos in the Wild via Self-Supervised Scene Decomposition](https://arxiv.org/abs/2302.11566) (CVPR 2023)  
   [![Star](https://img.shields.io/github/stars/MoyGcc/vid2avatar?style=social)](https://github.com/MoyGcc/vid2avatar)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.11566)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://moygcc.github.io/vid2avatar/)
 
-- [TeCH: Text-guided Reconstruction of Lifelike Clothed Humans](http://arxiv.org/abs/2308.08545) (arXiv 19/08/2023)  
-  [![Star](https://img.shields.io/github/stars/huangyangyi/TeCH?style=social)](https://github.com/huangyangyi/TeCH)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2308.08545)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://huangyangyi.github.io/TeCH/)
-
 - [Relightable and Animatable Neural Avatar from Sparse-View Video](http://arxiv.org/abs/2308.07903) (arXiv 17/08/2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2308.07903)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zju3dv.github.io/relightable_avatar/)
+
+- [TeCH: Text-guided Reconstruction of Lifelike Clothed Humans](http://arxiv.org/abs/2308.08545) (3DV 2024)  
+  [![Star](https://img.shields.io/github/stars/huangyangyi/TeCH?style=social)](https://github.com/huangyangyi/TeCH)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2308.08545)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://huangyangyi.github.io/TeCH/)
 
 ### Generalizable Avatar Novel View Synthesis
 
@@ -132,7 +132,8 @@ List of recent advances for human avatars, including generation, reconstruction,
 - [GHuNeRF: Generalizable Human NeRF from a Monocular Video](https://arxiv.org/pdf/2308.16576v2.pdf) (arXiv 03/09/2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2308.16576v2.pdf)
 
-- [ActorsNeRF: Animatable Few-shot Human Rendering with Generalizable NeRFs](https://arxiv.org/abs/2304.14401) (ICCV 2023)  
+- [ActorsNeRF: Animatable Few-shot Human Rendering with Generalizable NeRFs](https://arxiv.org/abs/2304.14401) (ICCV 2023)
+  [![Star](https://img.shields.io/github/stars/JitengMu/ActorsNeRF?style=social)](https://github.com/JitengMu/ActorsNeRF)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.14401)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://jitengmu.github.io/ActorsNeRF/)
 
@@ -148,38 +149,38 @@ List of recent advances for human avatars, including generation, reconstruction,
 
 ### Generalizable Avatar Mesh Reconstruction
 
-- [Global-correlated 3D-decoupling Transformer for Clothed Avatar Reconstruction](https://arxiv.org/pdf/2112.09127.pdf) (NeurIPS 2023)  
-  [![Star](https://img.shields.io/github/stars/River-Zhang/GTA?style=social)](https://github.com/River-Zhang/GTA)
-
 - [ICON : Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://arxiv.org/pdf/2112.09127.pdf) (CVPR 2022)  
   [![Star](https://img.shields.io/github/stars/YuliangXiu/ICON?style=social)](https://github.com/YuliangXiu/ICON)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2112.09127.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://icon.is.tue.mpg.de/)
+
+- [Global-correlated 3D-decoupling Transformer for Clothed Avatar Reconstruction](https://arxiv.org/pdf/2112.09127.pdf) (NeurIPS 2023)  
+  [![Star](https://img.shields.io/github/stars/River-Zhang/GTA?style=social)](https://github.com/River-Zhang/GTA)
 
 - [ECON: Explicit Clothed humans Optimized via Normal integration](https://arxiv.org/pdf/2212.07422.pdf) (CVPR 2023 Highlight)  
   [![Star](https://img.shields.io/github/stars/YuliangXiu/ECON?style=social)](https://github.com/YuliangXiu/ECON)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2212.07422.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://xiuyuliang.cn/econ/)
 
-- [Structured 3D Features for Reconstructing Relightable and Animatable Avatars](https://arxiv.org/abs/2212.06820) (CVPR2023)  
+- [Structured 3D Features for Reconstructing Relightable and Animatable Avatars](https://arxiv.org/abs/2212.06820) (CVPR 2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.06820)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://enriccorona.github.io/s3f/)
 
-- [SeSDF: Self-evolved Signed Distance Field for Implicit 3D Clothed Human Reconstruction](https://yukangcao.github.io/SeSDF/index_files/SeSDF_05448.pdf) (CVPR2023)  
+- [SeSDF: Self-evolved Signed Distance Field for Implicit 3D Clothed Human Reconstruction](https://yukangcao.github.io/SeSDF/index_files/SeSDF_05448.pdf) (CVPR 2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2304.00359)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yukangcao.github.io/SeSDF/)
 
-- [DIFu: Depth-Guided Implicit Function for Clothed Human Reconstruction](https://openaccess.thecvf.com/content/CVPR2023/papers/Song_DIFu_Depth-Guided_Implicit_Function_for_Clothed_Human_Reconstruction_CVPR_2023_paper.pdf) (CVPR2023)  
+- [DIFu: Depth-Guided Implicit Function for Clothed Human Reconstruction](https://openaccess.thecvf.com/content/CVPR2023/papers/Song_DIFu_Depth-Guided_Implicit_Function_for_Clothed_Human_Reconstruction_CVPR_2023_paper.pdf) (CVPR 2023)  
   [![Website](https://img.shields.io/badge/Website-9cf)](https://eadcat.github.io/DIFu/)
 
-- [Complete 3D Human Reconstruction from a Single Incomplete Image](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Complete_3D_Human_Reconstruction_From_a_Single_Incomplete_Image_CVPR_2023_paper.pdf) (CVPR2023)  
+- [Complete 3D Human Reconstruction from a Single Incomplete Image](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Complete_3D_Human_Reconstruction_From_a_Single_Incomplete_Image_CVPR_2023_paper.pdf) (CVPR 2023)  
   [![Website](https://img.shields.io/badge/Website-9cf)](https://junyingw.github.io/paper/3d_inpainting/)
 
-- [High-fidelity 3D Human Digitization from Single 2K Resolution Images](https://arxiv.org/pdf/2303.15108.pdf) (CVPR2023 Highlight)  
+- [High-fidelity 3D Human Digitization from Single 2K Resolution Images](https://arxiv.org/pdf/2303.15108.pdf) (CVPR 2023 Highlight)  
   [![Star](https://img.shields.io/github/stars/SangHunHan92/2K2K?style=social)](https://github.com/SangHunHan92/2K2K)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2303.15108.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://sanghunhan92.github.io/conference/2K2K/)
-- [D-IF: Uncertainty-aware Human Digitization via Implicit Distribution Field](https://arxiv.org/pdf/2308.08857.pdf) (ICCV2023)  
+- [D-IF: Uncertainty-aware Human Digitization via Implicit Distribution Field](https://arxiv.org/pdf/2308.08857.pdf) (ICCV 2023)  
   [![Star](https://img.shields.io/github/stars/psyai-net/D-IF_release?style=social)](https://github.com/psyai-net/D-IF_release)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2308.08857.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yxt7979.github.io/idf/)
@@ -237,6 +238,10 @@ List of recent advances for human avatars, including generation, reconstruction,
 - [Guide3D: Create 3D Avatars from Text and Image Guidance](https://arxiv.org/pdf/2308.09705.pdf) (arXiv 2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2308.09705.pdf)
 
+- [HumanNorm: Learning Normal Diffusion Model for High-quality and Realistic 3D Human Generation](https://arxiv.org/abs/2310.01406) (arXiv 2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.01406)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://humannorm.github.io/)
+
 ### Avatar Interaction
 
 - [Hi4D: 4D Instance Segmentation of Close Human Interaction](https://arxiv.org/abs/2303.15380v1) (CVPR 2023)  
@@ -281,42 +286,43 @@ List of recent advances for human avatars, including generation, reconstruction,
   [![Star](https://img.shields.io/github/stars/nkolot/SPIN?style=social)](https://github.com/nkolot/SPIN)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1909.12828)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://www.nikoskolot.com/projects/spin/)
-- [Global-to-Local Modeling for Video-based 3D Human Pose and Shape Estimation](https://arxiv.org/pdf/2303.14747.pdf) (CVPR 2023)  
-  [![Star](https://img.shields.io/github/stars/sxl142/GLoT?style=social)](https://github.com/sxl142/GLoT)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2303.14747.pdf)
-- [JOTR: 3D Joint Contrastive Learning with Transformers for Occluded Human Mesh Recovery](https://arxiv.org/abs/2307.16377) (ICCV 2023)  
-  [![Star](https://img.shields.io/github/stars/xljh0520/jotr?style=social)](https://github.com/xljh0520/jotr)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.16377)
-- [TRACE: 5D Temporal Regression of Avatars with Dynamic Cameras in 3D Environments](https://openaccess.thecvf.com/content/CVPR2023/papers/Sun_TRACE_5D_Temporal_Regression_of_Avatars_With_Dynamic_Cameras_in_CVPR_2023_paper.pdf) (CVPR 2023)  
-  [![Star](https://img.shields.io/github/stars/Arthur151/ROMP?style=social)](https://github.com/Arthur151/ROMP)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2306.02850.pdf)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://www.yusun.work/TRACE/TRACE.html)
-- [GLAMR: Global occlusion-aware human mesh recovery with dynamic cameras](https://openaccess.thecvf.com/content/CVPR2022/papers/Yuan_GLAMR_Global_Occlusion-Aware_Human_Mesh_Recovery_With_Dynamic_Cameras_CVPR_2022_paper.pdf) (CVPR 2022 Oral)  
-  [![Star](https://img.shields.io/github/stars/NVlabs/GLAMR?style=social)](https://github.com/NVlabs/GLAMR)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2112.01524.pdf)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://nvlabs.github.io/GLAMR/)
-- [D&d: Learning human dynamics from dynamic camera](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650470.pdf) (ECCV 2022 Oral)  
-  [![Star](https://img.shields.io/github/stars/Jeff-sjtu/DnD?style=social)](https://github.com/Jeff-sjtu/DnD)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2209.08790.pdf)
-- [CLIFF: Carrying location information in full frames into human pose and shape estimation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650580.pdf) (ECCV 2022 Oral)  
-  [![Star](https://img.shields.io/github/stars/haofanwang/CLIFF?style=social)](https://github.com/haofanwang/CLIFF)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2208.00571.pdf)
+
 - [End-to-end human pose and mesh reconstruction with transformers.](https://openaccess.thecvf.com/content/CVPR2021/papers/Lin_End-to-End_Human_Pose_and_Mesh_Reconstruction_with_Transformers_CVPR_2021_paper.pdf) (CVPR 2021)  
   [![Star](https://img.shields.io/github/stars/microsoft/MeshTransformer?style=social)](https://github.com/microsoft/MeshTransformer)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2012.09760.pdf)
+
 - [Hybrik: A hybrid analytical-neural inverse kinematics solution for 3d human pose and shape estimation](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_HybrIK_A_Hybrid_Analytical-Neural_Inverse_Kinematics_Solution_for_3D_Human_CVPR_2021_paper.pdf) (CVPR 2021)  
   [![Star](https://img.shields.io/github/stars/Jeff-sjtu/HybrIK?style=social)](https://github.com/Jeff-sjtu/HybrIK)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2011.14672.pdf)
 
+- [GLAMR: Global occlusion-aware human mesh recovery with dynamic cameras](https://openaccess.thecvf.com/content/CVPR2022/papers/Yuan_GLAMR_Global_Occlusion-Aware_Human_Mesh_Recovery_With_Dynamic_Cameras_CVPR_2022_paper.pdf) (CVPR 2022 Oral)  
+  [![Star](https://img.shields.io/github/stars/NVlabs/GLAMR?style=social)](https://github.com/NVlabs/GLAMR)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2112.01524.pdf)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://nvlabs.github.io/GLAMR/)
+
+- [D&d: Learning human dynamics from dynamic camera](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650470.pdf) (ECCV 2022 Oral)  
+  [![Star](https://img.shields.io/github/stars/Jeff-sjtu/DnD?style=social)](https://github.com/Jeff-sjtu/DnD)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2209.08790.pdf)
+
+- [CLIFF: Carrying location information in full frames into human pose and shape estimation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650580.pdf) (ECCV 2022 Oral)  
+  [![Star](https://img.shields.io/github/stars/haofanwang/CLIFF?style=social)](https://github.com/haofanwang/CLIFF)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2208.00571.pdf)
+
+- [Global-to-Local Modeling for Video-based 3D Human Pose and Shape Estimation](https://arxiv.org/pdf/2303.14747.pdf) (CVPR 2023)  
+  [![Star](https://img.shields.io/github/stars/sxl142/GLoT?style=social)](https://github.com/sxl142/GLoT)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2303.14747.pdf)
+
+- [JOTR: 3D Joint Contrastive Learning with Transformers for Occluded Human Mesh Recovery](https://arxiv.org/abs/2307.16377) (ICCV 2023)  
+  [![Star](https://img.shields.io/github/stars/xljh0520/jotr?style=social)](https://github.com/xljh0520/jotr)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.16377)
+
+- [TRACE: 5D Temporal Regression of Avatars with Dynamic Cameras in 3D Environments](https://openaccess.thecvf.com/content/CVPR2023/papers/Sun_TRACE_5D_Temporal_Regression_of_Avatars_With_Dynamic_Cameras_in_CVPR_2023_paper.pdf) (CVPR 2023)  
+  [![Star](https://img.shields.io/github/stars/Arthur151/ROMP?style=social)](https://github.com/Arthur151/ROMP)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2306.02850.pdf)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://www.yusun.work/TRACE/TRACE.html)
+
+
 ### Dataset
-
-- [CLOTH4D: A Dataset for Clothed Human Reconstruction](https://openaccess.thecvf.com/content/CVPR2023/papers/Zou_CLOTH4D_A_Dataset_for_Clothed_Human_Reconstruction_CVPR_2023_paper.pdf) (CVPR 2023)  
-  [![Star](https://img.shields.io/github/stars/AemikaChow/CLOTH4D?style=social)](https://github.com/AemikaChow/CLOTH4D)
-
-- [High-fidelity 3D Human Digitization from Single 2K Resolution Images (2K2K)](https://arxiv.org/abs/2303.15108) (CVPR 2023)  
-  [![Star](https://img.shields.io/github/stars/SangHunHan92/2K2K?style=social)](https://github.com/SangHunHan92/2K2K)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.15108)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://sanghunhan92.github.io/conference/2K2K/)
 
 - [Function4D: Real-time Human Volumetric Capture from Very Sparse RGBD Sensors (Thuman-2.0 Dataset)](https://arxiv.org/abs/2105.01859) (CVPR 2021 Oral)  
   [![Star](https://img.shields.io/github/stars/ytrock/THuman2.0-Dataset?style=social)](https://github.com/ytrock/THuman2.0-Dataset)
@@ -326,6 +332,14 @@ List of recent advances for human avatars, including generation, reconstruction,
 - [HuMMan: Multi-Modal 4D Human Dataset for Versatile Sensing and Modeling](https://arxiv.org/pdf/2204.13686.pdf) (ECCV 2022 Oral)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2204.13686.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://caizhongang.github.io/projects/HuMMan/)
+
+- [CLOTH4D: A Dataset for Clothed Human Reconstruction](https://openaccess.thecvf.com/content/CVPR2023/papers/Zou_CLOTH4D_A_Dataset_for_Clothed_Human_Reconstruction_CVPR_2023_paper.pdf) (CVPR 2023)  
+  [![Star](https://img.shields.io/github/stars/AemikaChow/CLOTH4D?style=social)](https://github.com/AemikaChow/CLOTH4D)
+
+- [High-fidelity 3D Human Digitization from Single 2K Resolution Images (2K2K)](https://arxiv.org/abs/2303.15108) (CVPR 2023)  
+  [![Star](https://img.shields.io/github/stars/SangHunHan92/2K2K?style=social)](https://github.com/SangHunHan92/2K2K)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.15108)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://sanghunhan92.github.io/conference/2K2K/)
 
 ### Aknowledgement
 
