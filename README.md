@@ -2,6 +2,8 @@
 
 List of recent advances for human avatars, including generation, reconstruction, and editing, etc.
 
+If you find any missed paper, feel free to open an issue or PR. 
+
 ## Table of Contents <!-- omit in toc -->
 
 <!-- - [Open-source Toolboxes and Foundation Models](#open-source-toolboxes-and-foundation-models) -->
