@@ -82,7 +82,6 @@ If you find any missed paper, feel free to open an issue or PR.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.02001)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yzmblog.github.io/projects/MonoHuman/)
 
-
 - [InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds](https://arxiv.org/pdf/2012.15838.pdf) (CVPR 2023)  
   [![Star](https://img.shields.io/github/stars/tijiang13/InstantAvatar?style=social)](https://github.com/tijiang13/InstantAvatar)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2212.07422.pdf)
@@ -156,9 +155,6 @@ If you find any missed paper, feel free to open an issue or PR.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2112.09127.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://icon.is.tue.mpg.de/)
 
-- [Global-correlated 3D-decoupling Transformer for Clothed Avatar Reconstruction](https://arxiv.org/pdf/2112.09127.pdf) (NeurIPS 2023)  
-  [![Star](https://img.shields.io/github/stars/River-Zhang/GTA?style=social)](https://github.com/River-Zhang/GTA)
-
 - [ECON: Explicit Clothed humans Optimized via Normal integration](https://arxiv.org/pdf/2212.07422.pdf) (CVPR 2023 Highlight)  
   [![Star](https://img.shields.io/github/stars/YuliangXiu/ECON?style=social)](https://github.com/YuliangXiu/ECON)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2212.07422.pdf)
@@ -182,10 +178,15 @@ If you find any missed paper, feel free to open an issue or PR.
   [![Star](https://img.shields.io/github/stars/SangHunHan92/2K2K?style=social)](https://github.com/SangHunHan92/2K2K)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2303.15108.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://sanghunhan92.github.io/conference/2K2K/)
+
 - [D-IF: Uncertainty-aware Human Digitization via Implicit Distribution Field](https://arxiv.org/pdf/2308.08857.pdf) (ICCV 2023)  
   [![Star](https://img.shields.io/github/stars/psyai-net/D-IF_release?style=social)](https://github.com/psyai-net/D-IF_release)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2308.08857.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yxt7979.github.io/idf/)
+
+- [Global-correlated 3D-decoupling Transformer for Clothed Avatar Reconstruction](https://arxiv.org/pdf/2112.09127.pdf) (NeurIPS 2023)  
+  [![Star](https://img.shields.io/github/stars/River-Zhang/GTA?style=social)](https://github.com/River-Zhang/GTA)
+
 
 ### Text-to-Avatar
 
