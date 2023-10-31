@@ -133,6 +133,10 @@ If you find any missed paper, feel free to open an issue or PR.
 - [GHuNeRF: Generalizable Human NeRF from a Monocular Video](https://arxiv.org/pdf/2308.16576v2.pdf) (arXiv 03/09/2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2308.16576v2.pdf)
 
+- [Neural Image-based Avatars: Generalizable Radiance Fields for Human Avatar Modeling](https://arxiv.org/pdf/2304.04897.pdf) (ICLR 2023)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2304.04897.pdf)git
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://youngjoongunc.github.io/nia/)
+
 - [ActorsNeRF: Animatable Few-shot Human Rendering with Generalizable NeRFs](https://arxiv.org/abs/2304.14401) (ICCV 2023)
   [![Star](https://img.shields.io/github/stars/JitengMu/ActorsNeRF?style=social)](https://github.com/JitengMu/ActorsNeRF)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.14401)
