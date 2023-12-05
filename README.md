@@ -2,23 +2,23 @@
 
 List of recent advances for human avatars, including generation, reconstruction, and editing, etc.
 
-If you find any missed paper, feel free to open an issue or PR. 
+If you find any missed paper, feel free to open an issue or PR.
 
 ## Table of Contents <!-- omit in toc -->
 
 <!-- - [Open-source Toolboxes and Foundation Models](#open-source-toolboxes-and-foundation-models) -->
 
 - [Awesome Avatars ](#awesome-avatars-)
-    - [Avatar Generation](#avatar-generation)
-    - [Per-subject Avatar Reconstruction](#per-subject-avatar-reconstruction)
-    - [Generalizable Avatar Novel View Synthesis](#generalizable-avatar-novel-view-synthesis)
-    - [Generalizable Avatar Mesh Reconstruction](#generalizable-avatar-mesh-reconstruction)
-    - [Text-to-Avatar](#text-to-avatar)
-    - [Avatar Interaction](#avatar-interaction)
-    - [Motion Generation](#motion-generation)
-    - [SMPL Estimation](#smpl-estimation)
-    - [Dataset](#dataset)
-    - [Aknowledgement](#aknowledgement)
+  - [Avatar Generation](#avatar-generation)
+  - [Per-subject Avatar Reconstruction](#per-subject-avatar-reconstruction)
+  - [Generalizable Avatar Novel View Synthesis](#generalizable-avatar-novel-view-synthesis)
+  - [Generalizable Avatar Mesh Reconstruction](#generalizable-avatar-mesh-reconstruction)
+  - [Text-to-Avatar](#text-to-avatar)
+  - [Avatar Interaction](#avatar-interaction)
+  - [Motion Generation](#motion-generation)
+  - [SMPL Estimation](#smpl-estimation)
+  - [Dataset](#dataset)
+  - [Aknowledgement](#aknowledgement)
 
 ### Avatar Generation
 
@@ -54,6 +54,7 @@ If you find any missed paper, feel free to open an issue or PR.
 - [3D Magic Mirror: Clothing Reconstruction from a Single Image via a Causal Perspective.](https://arxiv.org/abs/2204.13096) (arXiv 2022)  
   [![Star](https://img.shields.io/github/stars/layumi/3D-Magic-Mirror?style=social)](https://github.com/layumi/3D-Magic-Mirror)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2204.13096)
+
 
 ### Per-subject Avatar Reconstruction
 
@@ -101,6 +102,22 @@ If you find any missed paper, feel free to open an issue or PR.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2308.08545)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://huangyangyi.github.io/TeCH/)
 
+- [Learning Neural Volumetric Representations of Dynamic Humans in Minutes](http://arxiv.org/abs/2302.12237) (CVPR 2023)  
+  [![Star](https://img.shields.io/github/stars/zju3dv/instant-nvr?style=social)](https://github.com/zju3dv/instant-nvr)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2302.12237)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://zju3dv.github.io/instant_nvr)
+
+- [HUGS: Human Gaussian Splats](http://arxiv.org/abs/2311.17910) (Arxiv)  
+  [![Star](https://img.shields.io/github/stars/apple/ml-hugs?style=social)](https://github.com/apple/ml-hugs)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2311.17910)
+
+- [GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians](http://arxiv.org/abs/2312.02134) (Arxiv)  
+  [![Star](https://img.shields.io/github/stars/huliangxiao/GaussianAvatar?style=social)](https://github.com/huliangxiao/GaussianAvatar)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2312.02134)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://huliangxiao.github.io/GaussianAvatar)
+
+
+
 ### Generalizable Avatar Novel View Synthesis
 
 - [Neural Human Performer: Learning Generalizable Radiance Fields for Human Performance Rendering](https://arxiv.org/pdf/2109.07448.pdf) (NeurIPS 2021)  
@@ -134,10 +151,12 @@ If you find any missed paper, feel free to open an issue or PR.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2308.16576v2.pdf)
 
 - [Neural Image-based Avatars: Generalizable Radiance Fields for Human Avatar Modeling](https://arxiv.org/pdf/2304.04897.pdf) (ICLR 2023)
+
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2304.04897.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://youngjoongunc.github.io/nia/)
 
 - [ActorsNeRF: Animatable Few-shot Human Rendering with Generalizable NeRFs](https://arxiv.org/abs/2304.14401) (ICCV 2023)
+
   [![Star](https://img.shields.io/github/stars/JitengMu/ActorsNeRF?style=social)](https://github.com/JitengMu/ActorsNeRF)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.14401)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://jitengmu.github.io/ActorsNeRF/)
@@ -151,6 +170,11 @@ If you find any missed paper, feel free to open an issue or PR.
   [![Star](https://img.shields.io/github/stars/pansanity666/TransHuman?style=social)](https://github.com/pansanity666/TransHuman/)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.12291)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://pansanity666.github.io/TransHuman/)
+
+- [GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis](http://arxiv.org/abs/2312.02155) (Arxiv)  
+  [![Star](https://img.shields.io/github/stars/ShunyuanZheng/GPS-Gaussian?style=social)](https://github.com/ShunyuanZheng/GPS-Gaussian)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2312.02155)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://shunyuanzheng.github.io/GPS-Gaussian)
 
 ### Generalizable Avatar Mesh Reconstruction
 
@@ -190,7 +214,6 @@ If you find any missed paper, feel free to open an issue or PR.
 
 - [Global-correlated 3D-decoupling Transformer for Clothed Avatar Reconstruction](https://arxiv.org/pdf/2112.09127.pdf) (NeurIPS 2023)  
   [![Star](https://img.shields.io/github/stars/River-Zhang/GTA?style=social)](https://github.com/River-Zhang/GTA)
-
 
 ### Text-to-Avatar
 
@@ -249,6 +272,16 @@ If you find any missed paper, feel free to open an issue or PR.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.01406)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://humannorm.github.io/)
 
+- [Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation](http://arxiv.org/abs/2311.17117) (Arxiv)  
+  [![Star](https://img.shields.io/github/stars/HumanAIGC/AnimateAnyone?style=social)](https://github.com/HumanAIGC/AnimateAnyone)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2311.17117)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://humanaigc.github.io/animate-anyone/)
+
+- [HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting](http://arxiv.org/abs/2311.17061) (Arxiv)  
+  [![Star](https://img.shields.io/github/stars/alvinliu0/HumanGaussian?style=social)](https://github.com/alvinliu0/HumanGaussian)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2311.17061)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://alvinliu0.github.io/projects/HumanGaussian)
+  
 ### Avatar Interaction
 
 - [Hi4D: 4D Instance Segmentation of Close Human Interaction](https://arxiv.org/abs/2303.15380v1) (CVPR 2023)  
@@ -327,7 +360,6 @@ If you find any missed paper, feel free to open an issue or PR.
   [![Star](https://img.shields.io/github/stars/Arthur151/ROMP?style=social)](https://github.com/Arthur151/ROMP)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2306.02850.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://www.yusun.work/TRACE/TRACE.html)
-
 
 ### Dataset
 
