@@ -106,17 +106,22 @@ If you find any missed paper, feel free to open an issue or PR.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2302.12237)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zju3dv.github.io/instant_nvr)
 
-- [HUGS: Human Gaussian Splats](http://arxiv.org/abs/2311.17910) (Arxiv)  
+- [HUGS: Human Gaussian Splats](http://arxiv.org/abs/2311.17910) (Arxiv 2023)  
   [![Star](https://img.shields.io/github/stars/apple/ml-hugs?style=social)](https://github.com/apple/ml-hugs)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2311.17910)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://machinelearning.apple.com/research/hugs)
 
-- [GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians](http://arxiv.org/abs/2312.02134) (Arxiv)  
+- [GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians](http://arxiv.org/abs/2312.02134) (Arxiv 2023)  
   [![Star](https://img.shields.io/github/stars/huliangxiao/GaussianAvatar?style=social)](https://github.com/huliangxiao/GaussianAvatar)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2312.02134)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://huliangxiao.github.io/GaussianAvatar)
 
-- [Human101: Training 100+FPS Human Gaussians in 100s from 1 View](https://arxiv.org/abs/2312.15258) (Arxiv)  
+- [GART: Gaussian Articulated Template Models](https://arxiv.org/abs/2311.16099) (Arxiv 2023)  
+  [![Star](https://img.shields.io/github/stars/JiahuiLei/GART?style=social)](https://github.com/JiahuiLei/GART)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16099)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://www.cis.upenn.edu/~leijh/projects/gart/)
+
+- [Human101: Training 100+FPS Human Gaussians in 100s from 1 View](https://arxiv.org/abs/2312.15258) (Arxiv 2023)  
   [![Star](https://img.shields.io/github/stars/longxiang-ai/Human101?style=social)](https://github.com/longxiang-ai/Human101)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.15258)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://longxiang-ai.github.io/Human101/)
