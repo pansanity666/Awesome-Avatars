@@ -290,6 +290,11 @@ If you find any missed paper, feel free to open an issue or PR.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2311.17061)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://alvinliu0.github.io/projects/HumanGaussian)
 
+- [InstructHumans: Editing Animatable 3D Human Textures with Instructions](https://arxiv.org/abs/2404.04037) (Arxiv 2024)  
+  [![Star](https://img.shields.io/github/stars/viridityzhu/InstructHumans?style=social)](https://github.com/viridityzhu/InstructHumans)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.04037)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://jyzhu.top/instruct-humans/)
+
 ### Avatar Interaction
 
 - [Hi4D: 4D Instance Segmentation of Close Human Interaction](https://arxiv.org/abs/2303.15380v1) (CVPR 2023)  
